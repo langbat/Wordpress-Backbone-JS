@@ -1,0 +1,868 @@
+
+<?php 
+
+
+
+$et_global['post_fields'] = new ET_PostFields_Factory();
+object(ET_PostFields_Factory)#90 (1) {
+  ["fields"] array(20) {
+    ["price"] ect(ET_PostField)#5577 (8) {
+      ["name"] tring(5) "price"
+      ["title"] tring(5) "Preis"
+      ["description"] tring(0) ""
+      ["type"] tring(7) "decimal"
+      ["post_type"] rray(1) {
+        [0]  string(12) "payment_plan"
+      }
+      ["prefix"] tring(3) "et_"
+      ["metakey"] tring(8) "et_price"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]  string(4) "name"
+        [1]  string(5) "title"
+        [2]  string(11) "description"
+        [3]  string(4) "type"
+        [4]  string(9) "post_type"
+      }
+    }
+    ["duration"] ect(ET_PostField)#5576 (8) {
+      ["name"] tring(8) "duration"
+      ["title"] tring(5) "Dauer"
+      ["description"] tring(0) ""
+      ["type"] tring(3) "int"
+      ["post_type"] rray(1) {
+        [0]  string(12) "payment_plan"
+      }
+      ["prefix"] tring(3) "et_"
+      ["metakey"] tring(11) "et_duration"
+      ["fields":"ET_PostField":private] rray(5) {
+        [0]  string(4) "name"
+        [1]  string(5) "title"
+        [2]  string(11) "description"
+        [3]  string(4) "type"
+        [4]  string(9) "post_type"
+      }
+    }
+    ["featured"] ject(ET_PostField)#5575 (8) {
+      ["name"] string(8) "featured"
+      ["title"] string(13) "hervorgehoben"
+      ["description"] string(0) ""
+      ["type"] string(3) "int"
+      ["post_type"] array(2) {
+        [0]   string(12) "payment_plan"
+        [1]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(11) "et_featured"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["location"] ject(ET_PostField)#5574 (8) {
+      ["name"] string(8) "location"
+      ["title"] string(8) "Standort"
+      ["description"] string(12) "short adress"
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(11) "et_location"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["full_location"] ject(ET_PostField)#5573 (8) {
+      ["name"] string(13) "full_location"
+      ["title"] string(23) "Vollständiger Standort"
+      ["description"] string(16) "Job full address"
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(16) "et_full_location"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["location_lat"] ject(ET_PostField)#5572 (8) {
+      ["name"] string(12) "location_lat"
+      ["title"] string(11) "Breitengrad"
+      ["description"] string(0) ""
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(15) "et_location_lat"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["location_lng"] ject(ET_PostField)#5571 (8) {
+      ["name"] string(12) "location_lng"
+      ["title"] string(11) "Längengrad"
+      ["description"] string(0) ""
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(15) "et_location_lng"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["job_package"] ject(ET_PostField)#5570 (8) {
+      ["name"] string(11) "job_package"
+      ["title"] string(12) "Zahlungsplan"
+      ["description"] string(0) ""
+      ["type"] string(3) "int"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(14) "et_job_package"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["job_paid"] ject(ET_PostField)#5569 (8) {
+      ["name"] string(8) "job_paid"
+      ["title"] string(14) "Stelle bezahlt"
+      ["description"] string(0) ""
+      ["type"] string(4) "bool"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(11) "et_job_paid"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["job_order"] ject(ET_PostField)#5568 (8) {
+      ["name"] string(9) "job_order"
+      ["title"] string(7) "Auftrag"
+      ["description"] string(0) ""
+      ["type"] string(4) "bool"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(12) "et_job_order"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["apply_method"] ject(ET_PostField)#5567 (8) {
+      ["name"] string(12) "apply_method"
+      ["title"] string(16) "Job Apply Method"
+      ["description"] string(0) ""
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(15) "et_apply_method"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["apply_email"] ject(ET_PostField)#5566 (8) {
+      ["name"] string(11) "apply_email"
+      ["title"] string(18) "Job Apply To Email"
+      ["description"] string(0) ""
+      ["type"] string(5) "email"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(14) "et_apply_email"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["applicant_detail"] ject(ET_PostField)#5565 (8) {
+      ["name"] string(16) "applicant_detail"
+      ["title"] string(17) "Job Apply Details"
+      ["description"] string(0) ""
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(19) "et_applicant_detail"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["emp_email"] ject(ET_PostField)#5564 (8) {
+      ["name"] string(9) "emp_email"
+      ["title"] string(14) "Employee email"
+      ["description"] string(0) ""
+      ["type"] string(5) "email"
+      ["post_type"] array(1) {
+        [0]   string(11) "application"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(12) "et_emp_email"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["emp_name"] ject(ET_PostField)#5563 (8) {
+      ["name"] string(8) "emp_name"
+      ["title"] string(13) "Employee name"
+      ["description"] string(0) ""
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(11) "application"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(11) "et_emp_name"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["company_id"] ject(ET_PostField)#5562 (8) {
+      ["name"] string(10) "company_id"
+      ["title"] string(10) "Company id"
+      ["description"] string(37) "ID of company who application send to"
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(11) "application"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(13) "et_company_id"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["blog_announcement"] ject(ET_PostField)#5561 (8) {
+      ["name"] string(17) "blog_announcement"
+      ["title"] string(19) "Blog-Beitrag buchen"
+      ["description"] string(43) "Soll diese Stelle im Blog angeboten werden?"
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(11) "application"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(20) "et_blog_announcement"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["fb_announcement"] ject(ET_PostField)#5560 (8) {
+      ["name"] string(15) "fb_announcement"
+      ["title"] string(23) "Facebook-Beitrag buchen"
+      ["description"] string(48) "Soll diese Stelle bei Facebook angeboten werden?"
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(11) "application"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(18) "et_fb_announcement"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["news_announcement"] ject(ET_PostField)#5559 (8) {
+      ["name"] string(17) "news_announcement"
+      ["title"] string(25) "Newsletter-Beitrag buchen"
+      ["description"] string(49) "Soll diese Stelle im Newsletter angeboten werden?"
+      ["type"] string(6) "string"
+      ["post_type"] array(1) {
+        [0]   string(11) "application"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(20) "et_news_announcement"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+    ["post_views"] ject(ET_PostField)#5556 (8) {
+      ["name"] string(10) "post_views"
+      ["title"] string(9) "Post view"
+      ["description"] string(16) "Store post views"
+      ["type"] string(3) "int"
+      ["post_type"] array(1) {
+        [0]   string(3) "job"
+      }
+      ["prefix"] string(3) "et_"
+      ["metakey"] string(13) "et_post_views"
+      ["fields":"ET_PostField":private] array(5) {
+        [0]   string(4) "name"
+        [1]   string(5) "title"
+        [2]   string(11) "description"
+        [3]   string(4) "type"
+        [4]   string(9) "post_type"
+      }
+    }
+  }
+}
+
+/*
+* companies
+*/
+        $et_get_active_companies()  = array(
+         ["user_login"]=> string(7) "charite" 
+         ["user_pass"]=> string(34) "$P$BdMDbd2zHnfYPVBpsANQguj6K38woL/" 
+         ["user_nicename"]=> string(7) "charite" 
+         ["user_email"]=> string(17) "test@asasdwdra.de" 
+         ["user_url"]=> string(17) "http://charite.de" 
+         ["user_registered"]=> string(19) "2013-10-21 16:05:50" 
+         ["user_activation_key"]=> string(0) "" 
+         ["user_status"]=> string(1) "0" 
+         ["display_name"]=> string(7) "Charite" 
+         ["logo"]=> string(0) "" }
+
+
+/*
+* Post a job
+*/
+
+$plans =                    
+array(10) {
+  [22] array(7) {
+    ["ID"]  int(22)
+    ["title"]  string(30) "Premium-Anzeige auf Startseite"
+    ["description"]  string(76) "Ihre Stelle wird als featured angezeigt, über anderen Stellen für 84 Tage."
+    ["price"]  string(3) "949"
+    ["duration"]  string(2) "84"
+    ["featured"]  string(1) "1"
+    ["quantity"]  string(1) "5"
+  }
+  [21] array(7) {
+    ["ID"]  int(21)
+    ["title"]  string(30) "Premium-Anzeige auf Startseite"
+    ["description"]  string(76) "Ihre Stelle wird als featured angezeigt, über anderen Stellen für 56 Tage."
+    ["price"]  string(3) "719"
+    ["duration"]  string(2) "56"
+    ["featured"]  string(1) "1"
+    ["quantity"]  string(1) "5"
+  }
+  [20] array(7) {
+    ["ID"]  int(20)
+    ["title"]  string(30) "Premium-Anzeige auf Startseite"
+    ["description"]  string(79) "Ihre Stelle wird als vorgestellt angezeigt, über anderen Stellen für 28 Tage."
+    ["price"]  string(3) "399"
+    ["duration"]  string(2) "28"
+    ["featured"]  string(1) "1"
+    ["quantity"]  string(1) "5"
+  }
+  [19] array(7) {
+    ["ID"]  int(19)
+    ["title"]  string(20) "Top-Anzeige FM/PJ/SJ"
+    'jobtype' basis,top,premium
+    'reduced' 1/0
+    ["description"]  string(49) "Your job will be displayed as normal for 84 days."
+    ["price"]  string(2) "89"
+    ["duration"]  string(2) "84"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+  [18] array(7) {
+    ["ID"]  int(18)
+    ["title"]  string(20) "Top-Anzeige FM/PJ/SJ"
+    ["description"]  string(49) "Your job will be displayed as normal for 56 days."
+    ["price"]  string(2) "69"
+    ["duration"]  string(2) "56"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+  [17] array(7) {
+    ["ID"]  int(17)
+    ["title"]  string(20) "Top-Anzeige FM/PJ/SJ"
+    ["description"]  string(49) "Your job will be displayed as normal for 28 days."
+    ["price"]  string(2) "39"
+    ["duration"]  string(2) "28"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+  [16] rray(7) {
+    ["ID"]  int(16)
+    ["title"]  string(25) "Top-Anzeige Assistenzarzt"
+    ["description"]  string(49) "Your job will be displayed as normal for 84 days."
+    ["price"]  string(3) "239"
+    ["duration"]  string(2) "84"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+  [15] array(7) {
+    ["ID"]  int(15)
+    ["title"]  string(25) "Top-Anzeige Assistenzarzt"
+    ["description"]  string(49) "Your job will be displayed as normal for 56 days."
+    ["price"]  string(3) "179"
+    ["duration"]  string(2) "56"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+  [13] array(7) {
+    ["ID"]  int(13)
+    ["title"]  string(25) "Top-Anzeige Assistenzarzt"
+    ["description"]  string(49) "Your job will be displayed as normal for 28 days."
+    ["price"]  string(2) "99"
+    ["duration"]  string(2) "28"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+  [12] array(7) {
+    ["ID"]  int(12)
+    ["title"]  string(13) "Basis-Anzeige"
+    ["description"]  string(49) "Your job will be displayed as normal for 28 days."
+    ["price"]  string(1) "0"
+    ["duration"]  string(2) "28"
+    ["featured"]  string(1) "0"
+    ["quantity"]  string(1) "0"
+  }
+}
+
+
+
+// js object plans
+
+12: Object
+    ID: 12
+    description: "Your job will be displayed as normal for 28 days."
+    duration: "28"
+    featured: "0"
+    price: "0"
+    quantity: "0"
+    title: "Basis-Anzeige"
+    __proto__: Object
+13: Object
+15: Object
+...
+
+/*
+* et_general options
+*/
+
+
+              
+object(ET_GeneralOptions)#5485 (4) {
+  ["opt_keys":protected] 
+  array(14) {
+    ["et_site_title"]  string(11) "Seitentitel"
+    ["et_site_desc"]  string(18) "Seitenbeschreibung"    
+    ["et_site_demon"]  string(21) "Vorstellung der Seite"
+    ["et_website_logo"]  string(10) "Seitenlogo"
+    ["et_mobile_icon"] string(18) "Seiten-Mobilsymbol"
+    ["et_default_logo"] string(19) "Standard-Firmenlogo"
+    ["et_language"] string(13) "Seitensprache"
+    ["et_layout"] string(12) "Seitenlayout"
+    ["et_facebook_link"]     string(12) "Facebook-URL"
+    ["et_twitter_account"]     string(13) "Twitter-Konto"
+    ["et_google_plus"]     string(15) "Google Plus-URL"
+    ["et_customization"]     string(15) "Seitenanpassung"
+    ["et_copyright"]     string(23) "Copyright-Informationen"
+    ["et_google_analytics"]     string(16) "Google Analytics"
+  }
+  ["prefix":"ET_GeneralOptions":private] string(3) "et_"
+  ["option_group":protected] string(15) "et_general_opts"
+  ["options_arr":protected] 
+  array(10) {
+    ["et_customization"] 
+    array(20) {
+      ["background"] string(7) "#FAF9F5"
+      ["header"] string(7) "#263E57"
+      ["heading"] string(7) "#4B4B4B"
+      ["text"] string(7) "#555555"
+      ["action"]       string(7) "#C73E2C"
+      ["footer"]       string(7) "#F7F0E6"
+      ["font-heading"]       string(20) "Helvetica, san-serif"
+      ["font-heading-size"]       string(4) "22px"
+      ["font-heading-style"]       string(6) "normal"
+      ["font-heading-weight"]       string(6) "normal"
+      ["font-text"]       string(20) "Helvetica, san-serif"
+      ["font-text-size"]       string(4) "12px"
+      ["font-text-style"]       string(6) "normal"
+      ["font-text-weight"]       string(6) "normal"
+      ["font-action"]       string(20) "Helvetica, san-serif"
+      ["font-action-size"]       string(4) "12px"
+      ["font-action-style"]       string(6) "normal"
+      ["font-action-weight"]       string(6) "normal"
+      ["layout"]       string(15) "content-sidebar"
+      ["pattern"]       string(60) "http://dev03.dev/wp-content/themes/jobengine/img/pattern.png"
+    }
+    ["et_copyright"]     string(4) "2013"
+    ["et_site_desc"]     string(0) ""
+    ["et_language"]     string(6) "German"
+    ["et_job_type_colors"]     array(3) {
+      [14]       int(3)
+      [15]       int(10)
+      [16]       int(11)
+    }
+    ["et_layout"]     string(15) "content-sidebar"
+    ["et_website_logo"]     int(625)
+    ["et_facebook_link"]     string(38) "https://www.facebook.com/PraktischArzt"
+    ["et_twitter_account"]     string(33) "https://twitter.com/praktischArzt"
+    ["et_site_title"]     string(13) "PraktischArzt"
+  }
+}      
+
+
+
+/*
+*
+* plans 
+*
+*/
+$plan = 
+array(7) { 
+  ["ID"]=> int(15) 
+  ["title"]=> string(25) "Top-Anzeige Assistenzarzt" 
+  ["description"]=> string(49) "Your job will be displayed as normal for 56 days." 
+  ["price"]=> string(3) "179" 
+  ["duration"]=> string(2) "56" 
+  ["featured"]=> string(1) "0" 
+  ["quantity"]=> string(1) "0" }
+
+
+
+/*
+* jobPackage
+*
+*/
+
+
+
+$jobpackage = array(12) {
+  ["payer"]  string(1) "1"
+  ["job_id"]  int(634)
+  ["created_date"]  string(19) "2013-10-30 17:48:15"
+  ["status"]  string(7) "pending"
+  ["payment"]  string(4) "cash"
+  ["products"]  array(1) {
+    [634]    array(5) {
+      ["ID"]      string(3) "634"
+      ["NAME"]      string(25) "Top-Anzeige Assistenzarzt"
+      ["AMT"]      string(3) "179"
+      ["QTY"]      int(1)
+      ["L_DESC"]      string(49) "Your job will be displayed as normal for 56 days."
+    }
+  }
+  ["currency"]  string(3) "EUR"
+  ["payment_code"]  string(0) ""
+  ["total"]  string(6) "179.00"
+  ["paid_date"]  string(0) ""
+  ["shipping"]  array(1) {
+    ["street_address"]    string(25) "Berlin, Matternstraße 13"
+  }
+  ["payment_plan"]  string(2) "15"
+}
+
+
+$session=
+array(2) {
+  ["order_id"]  int(635)
+  ["job_id"]  string(3) "634"
+}
+      
+
+
+     
+$order = ET_JobOrder( $session['order_id']) =  object(ET_JobOrder)#5548 (21) {
+  ["payment_plan":protected]  string(2) "15"
+  ["order_name":protected]  NULL
+  ["_ID":protected]  int(639)
+  ["_total":protected]  string(6) "179.00"
+  ["_total_before_discount":protected]  NULL
+  ["_currency":protected]  string(3) "EUR"
+  ["_payer":protected]  string(1) "1"
+  ["_payment":protected]  string(4) "cash"
+  ["_payment_code":protected]  string(0) ""
+  ["_products":protected]  array(1) {
+    [638]    array(5) {
+      ["ID"]      string(3) "638"
+      ["NAME"]      string(25) "Top-Anzeige Assistenzarzt"
+      ["AMT"]      string(3) "179"
+      ["QTY"]      int(1)
+      ["L_DESC"]      string(49) "Your job will be displayed as normal for 56 days."
+    }
+  }
+  ["_product_id":protected]  int(638)
+  ["_shipping":protected]  array(1) {
+    ["street_address"]    string(25) "Berlin, Matternstraße 13"
+  }
+  ["_created_date":protected]  string(19) "2013-10-31 16:22:25"
+  ["_paid_date":protected]  string(0) ""
+  ["_stat":protected]  string(7) "pending"
+  ["_payer_id":protected]  NULL
+  ["_setup_checkout":protected]  bool(false)
+  ["_coupon_code":protected]  string(0) ""
+  ["_discount_rate":protected]  NULL
+  ["_discount_method":protected]  string(7) "percent"
+  ["_discount"]  string(0) ""
+}
+
+$job = array(30) {
+    ["ID"]=> int(618) 
+    ["id"]=> int(618) 
+    ["title"]=> string(5) "super" 
+    ["content"]=> string(13) "duper" 
+    ["excerpt"]=> string(13) "duper" 
+    ["categories"]=> array(1) { 
+        [0]=> array(4) { 
+            ["term_id"]=> string(1) "9" 
+            ["slug"]=> string(9) "chirurgie" 
+            ["name"]=> string(19) "Allgemein-Chirurgie" 
+            ["url"]=> string(40) "http://dev03.dev/?job_category=chirurgie" 
+        } 
+    } 
+    ["job_types"]=> array(1) { 
+        [0]=> array(5) { 
+            ["term_id"]=> string(1) "5" 
+            ["slug"]=> string(29) "premium-anzeige-assistenzarzt" 
+            ["name"]=> string(13) "Assistenzarzt" 
+            ["url"]=> string(56) "http://dev03.dev/?job_type=premium-anzeige-assistenzarzt" 
+            ["color"]=> string(1) "8" 
+        } 
+    } 
+    ["permalink"]=> string(27) "http://dev03.dev/?job=super" 
+    ["actionid"]=> int(618) ["location"]=> string(6) "Berlin" 
+    ["full_location"]=> string(6) "Berlin" 
+    ["location_lat"]=> string(9) "52.519171" 
+    ["location_lng"]=> string(18) "13.406091199999992" 
+    ["status"]=> string(7) "publish" 
+    ["date"]=> string(16) "21. October 2013" 
+    ["post_date"]=> string(19) "2013-10-21 18:10:09" 
+    ["author_id"]=> string(2) "10" 
+    ["author_url"]=> string(27) "http://dev03.dev/?author=10" 
+    ["author"]=> string(7) "Charite" 
+    ["renew_url"]=> string(38) "http://dev03.dev/?page_id=5&job_id=618" 
+    ["template_id"]=> string(6) "normal" 
+    ["apply_method"]=> string(0) "" 
+    ["applicant_detail"]=> string(35) "Write your instructions here" 
+    ["expired_date"]=> string(19) "2013-11-18 04:10:09" 
+    ["featured"]=> string(1) "0" 
+    ["job_package"]=> string(2) "12" 
+    ["job_paid"]=> string(1) "1" 
+    ["job_order"]=> string(0) "" 
+    ["apply_email"]=> string(17) "test@asasdwdra.de" 
+    ["post_views"]=> string(1) "0" 
+}
+
+
+$company = array(14) { 
+    ["id"]=> int(1) 
+    ["ID"]=> int(1) 
+    ["display_name"]=> string(7) "steffen" 
+    ["user_url"]=> string(17) "http://steffen.de" 
+    ["post_url"]=> string(26) "http://dev03.dev/?author=1" 
+    ["user_logo"]=> array(4) { 
+        ["small_thumb"]=> array(3) { 
+            [0]=> string(65) "http://dev03.dev/wp-content/themes/jobengine/img/default_logo.jpg" 
+            [1]=> int(200) 
+            [2]=> int(200) 
+        } 
+        ["company-logo"]=> array(3) { 
+            [0]=> string(65) "http://dev03.dev/wp-content/themes/jobengine/img/default_logo.jpg" 
+            [1]=> int(200) 
+            [2]=> int(200) 
+        } 
+        ["thumbnail"]=> array(3) { 
+            [0]=> string(65) "http://dev03.dev/wp-content/themes/jobengine/img/default_logo.jpg" 
+            [1]=> int(200) 
+            [2]=> int(200) 
+        } 
+        ["attach_id"]=> int(0) 
+    } 
+    ["recent_location"]=> array(4) { 
+        ["location"]=> string(25) "Berlin, Matternstraße 13" 
+        ["full_location"]=> string(25) "Berlin, Matternstraße 13" 
+        ["location_lat"]=> string(8) "52.52229" 
+        ["location_lng"]=> string(18) "13.453070000000025" 
+    } 
+    ["description"]=> string(0) "" 
+    ["apply_method"]=> string(18) "isapplywithprofile" 
+    ["apply_email"]=> string(27) "steffen@user-interaction.de" 
+    ["applicant_detail"]=> string(35) "Write your instructions here" 
+    ["payment_plans"]=> array(1) { 
+        [22]=> int(3) 
+    } 
+    ["profile_url"]=> string(27) "http://dev03.dev/?page_id=6" 
+    ["is_admin"]=> bool(true) 
+}
+
+
+
+jobengine.post_job.job:
+d {attributes: Object, _escapedAttributes: Object, cid: "c11", changed: Object, _silent: Object…}
+  _callbacks: Object
+  _changing: false
+  _escapedAttributes: Object
+  _pending: Object
+  _previousAttributes: Object
+  _silent: Object
+  _validate: function () { [native code] }
+  approve: function () { [native code] }
+  archive: function () { [native code] }
+  attributes: Object
+    is_regular: "reduced"
+  author: d
+      _callbacks: Object
+      _escapedAttributes: Object
+      _pending: Object
+      _previousAttributes: Object
+      _silent: Object
+      _validate: function () { [native code] }
+      attributes: Object
+      bind: function () { [native code] }
+      change: function () { [native code] }
+      changePassword: function () { [native code] }
+      changed: Object
+      changedAttributes: function () { [native code] }
+      cid: "c8"
+      clear: function () { [native code] }
+      clone: function () { [native code] }
+      constructor: function () { [native code] }
+      destroy: function () { [native code] }
+      doAuth: function () { [native code] }
+      doLogout: function () { [native code] }
+      doRequestResetPassword: function () { [native code] }
+      doResetPassword: function () { [native code] }
+      escape: function () { [native code] }
+      fetch: function () { [native code] }
+      get: function () { [native code] }
+      getApplicantDetail: function () { [native code] }
+      getApplyEmail: function () { [native code] }
+      getApplyMethod: function () { [native code] }
+      getLocation: function () { [native code] }
+      getName: function () { [native code] }
+      getUrl: function () { [native code] }
+      has: function () { [native code] }
+      hasChanged: function () { [native code] }
+      id: 1
+      initialize: function () { [native code] }
+      isNew: function () { [native code] }
+      isValid: function () { [native code] }
+      off: function () { [native code] }
+      on: function () { [native code] }
+      parse: function () { [native code] }
+      previous: function () { [native code] }
+      previousAttributes: function () { [native code] }
+      renderListItem: function () { [native code] }
+      save: function () { [native code] }
+      set: function () { [native code] }
+      setApplicantDetail: function () { [native code] }
+      setApplyEmail: function () { [native code] }
+      setApplyMethod: function () { [native code] }
+      setEmail: function () { [native code] }
+      setLocation: function () { [native code] }
+      setName: function () { [native code] }
+      setPass: function () { [native code] }
+      setUrl: function () { [native code] }
+      setUserKey: function () { [native code] }
+      setUserName: function () { [native code] }
+      sync: function () { [native code] }
+      toJSON: function () { [native code] }
+      trigger: function () { [native code] }
+      unbind: function () { [native code] }
+      unset: function () { [native code] }
+      url: function () { [native code] }
+      __proto__: 
+  bind: function () { [native code] }
+  change: function () { [native code] }
+  changed: Object
+  changedAttributes: function () { [native code] }
+  cid: "c11"
+  clear: function () { [native code] }
+  clone: function () { [native code] }
+  constructor: function () { [native code] }
+  destroy: function () { [native code] }
+  escape: function () { [native code] }
+  fetch: function () { [native code] }
+  get: function () { [native code] }
+  has: function () { [native code] }
+  hasChanged: function () { [native code] }
+  initialize: function () { [native code] }
+  isNew: function () { [native code] }
+  isValid: function () { [native code] }
+  off: function () { [native code] }
+  on: function () { [native code] }
+  parse: function () { [native code] }
+  previous: function () { [native code] }
+  previousAttributes: function () { [native code] }
+  reject: function () { [native code] }
+  remove: function () { [native code] }
+  reviewJob: function () { [native code] }
+  save: function () { [native code] }
+  set: function () { [native code] }
+  sync: function () { [native code] }
+  toJSON: function () { [native code] }
+  trigger: function () { [native code] }
+  unbind: function () { [native code] }
+  unset: function () { [native code] }
+  updateJobAuthor: function () { [native code] }
+  url: function () { [native code] }
+  __proto__: 

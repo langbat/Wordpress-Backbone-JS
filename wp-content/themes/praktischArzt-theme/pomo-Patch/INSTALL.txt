@@ -1,0 +1,53 @@
+Native gettext-patch for Wordpress 3.3
+--------------------------------------
+For WordPress 3.3 we did a complete rewrite of the patch to make wordpress
+work with PHP's native gettext-support.
+
+The Patch now emulates the PoMo-API and creates an alias from the old class
+named "MO" to itself - you just have to make sure that its loaded *before*
+pomo is loaded.
+
+File that were modified:
+  wp-settings.php
+
+Files that were added
+  wp-includes/pomo/native.php
+
+
+Installation using the patch-file
+---------------------------------
+If you are a professional and choose not to trust us (which is welcome,
+anyway!) you may use the supplied native_gettext.patch-file to review our
+changes and patch your wordpress 3.3 installation.
+
+Just change to your WP-Installation-Directory and apply the patch:
+
+  cd ~/wordpress
+  patch -p1 < /path/to/native_gettext.patch
+
+
+Installation using patched files
+--------------------------------
+If you are not able to patch your wordpress-installation, you may use the
+supplied .php-files. The previous versions of our patch shipped within a
+single l10n.php, the new version needs two files - one to be changed, one to
+be added.
+
+1. Make a backup of your wp-settings.php
+2. Replace the wp-settings.php with the one supplied by us
+3. Copy the native.php to wp-includes/pomo/
+4. Enjoy and spread the word!
+
+
+Authors
+-------
+Bernd Holzmueller <bernd@tiggerswelt.net>
+
+
+Contributors
+------------
+Linus Hoppe spent a lot of time on writing about the patch and handing in
+  the patch at wordpress.org
+
+silberling was the first one who created a version of the old patch to run
+  with wp 3.3

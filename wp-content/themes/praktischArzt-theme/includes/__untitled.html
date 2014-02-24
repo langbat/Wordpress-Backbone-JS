@@ -1,0 +1,71 @@
+<% if ( featured === "1"  && status !== 'pending' && status !== 'draft'){ featured = 'featured' }%>
+<li class="job-item clearfix">           
+
+    <div class='thumb'>
+        <% if ( _.isObject(author_data['user_logo']) && ('small_thumb' in author_data['user_logo'] || 'thumbnail' in author_data['user_logo'] ) ) { %>
+        <a data='<%= author_id %>' href='<%= author_data['post_url'] %>'
+           id='job_author_name' class='thumb' title='{$strings['view_by']} <%= author_data['display_name'] %>'>
+           <img src='<%= ('small_thumb' in author_data['user_logo'] ) ? author_data['user_logo']['small_thumb'][0] : author_data['user_logo']['thumbnail'][0] %>' />
+        </a>
+        <% } %>
+    </div>
+
+
+    <a class='title-link title' href='<%= permalink %>'><h2<<%= title %></h2></a>
+
+    <div class='desc f-left'>
+        <div class='cat company_name'>
+            <a data='<%= author_id %>' href='<%= author_data['post_url'] %>'
+               id='job_author_name' title='{$strings['view_by']}<%= author_data["display_name"] %>'>
+               <%= author_data['display_name'] %>
+        </a>
+    </div>
+
+    <div> <span class='icon' data-icon='@'></span><span class='job-location'><%= location %></span> </div>          
+</div>
+
+
+<div class='desc f-left'>
+
+    <div class="job_categories"> <span> <%= job.category %> </span> 
+    </div>
+
+    <div class="company_labels">
+        <% if ( { $company_zertifikat }) { %>
+        <span class="company_pa_certificate"></span>
+        <% } %>
+
+        <% if ( {$company_label['url' ]} ) { %> 
+        <span class="company_pa_label"><img src="<% company_label %>"></span>
+        <% } %>
+    </div>
+</div>
+
+
+<div class='desc f-left'>
+    <% if (typeof job_types[0] != 'undefined' ){ %>
+    <div class='job-type color-<% if (typeof job_types[0].color != 'undefined') { %><%=job_types[0].color%> <% } %>'>
+         <span class='flag'></span>
+        <% _.each(job_types, function(type) { %>
+        <a href='<%= type.url %>' rel='tag'><%= type.name %></a>
+        <% }); %>
+    </div>
+    <% } %>
+
+    <% if (job.date) { %>
+    <div class="">
+        <span class="icon" data-icon="t"></span><span class="job-date"><% {$job['date']} %></span>
+    </div>
+    <% } %>
+
+
+</div>
+
+
+<div class="btn-select f-right">
+    <button class="bg-btn-hyperlink border-radius">     
+        <a class="title-link"  href="<% {$job['permalink']}%>"> Stelle Ansehen  </a>
+    </button>
+</div>
+<br clas="clear">
+</li>

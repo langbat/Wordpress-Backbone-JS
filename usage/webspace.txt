@@ -1,0 +1,8 @@
+belegter Speicherplatz:
+htdocs    : 82284
+mysql     : 23512
+	d0185f8f  -> 23512
+
+pop       : 0
+
+ssh       : 0

@@ -1,0 +1,36 @@
+/*.job_fields li.checked:before {
+    content: '\2714';
+    padding-right: 10px;
+    margin-left: -20px;
+    color: #333;
+}
+*/
+
+.form-item .input-date{
+    position: relative;
+}
+
+.form-item .input-date .icon.icon-date{
+    position: absolute;
+    top: 13px;
+    left: 10px;
+    right: 0;
+    width: 10px;
+}
+.form-item .input-date > input{
+    padding-left: 30px; 
+    width: 250px !important;
+}
+.form-item .input-date .icon[data-icon="!"]{
+    right: 200px;
+}
+
+.modal-job .form-item .error.input-date input{
+    width: 240px;
+}
+.modal-job .form-item .error.input-date .icon[data-icon="!"]{
+    right: 245px;
+}
+.post-a-job .form-item .error {
+    width: 485px;
+}

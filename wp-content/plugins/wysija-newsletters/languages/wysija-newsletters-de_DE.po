@@ -1,0 +1,4386 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Wysija\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2013-03-23 18:42+0100\n"
+"PO-Revision-Date: 2013-12-29 18:11+0700\n"
+"Last-Translator: \n"
+"Language-Team: German (Germany) (http://www.transifex.com/projects/p/wysija/"
+"language/de_DE/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: de_DE\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.6.3\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__;esc_attr_e;esc_html__;esc_html_e;_n;"
+"_x;_n:1,2;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n_noop\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"X-Poedit-SearchPath-1: ../../wysija-newsletters-premium\n"
+
+msgid " %1$s email(s) scheduled."
+msgstr "%1$s E-Mail(s) geplant."
+
+msgid " %1$s subscriber have been deleted."
+msgstr " %1$s Abonnenten wurden gelöscht."
+
+msgid " %1$s subscribers have been deleted."
+msgstr " %1$s Abonnenten wurden gelöscht."
+
+msgid " The subscriber <b><i>%s</i></b> is not confirmed"
+msgstr "Der Abonnent <b><i>%s</i></b> ist nicht bestätigt"
+
+msgid "\"%2$s\" imported from %1$s"
+msgstr "\"%2$s\" wurde importiert aus %1$s"
+
+msgid "\"Read more\" text"
+msgstr "\"Mehr lesen\"-Text"
+
+msgid "\"View in browser\""
+msgstr "\"Im Browser anschauen\""
+
+msgid "%1$d emails have been sent to unconfirmed subscribers."
+msgstr ""
+"%1$d E-Mails wurden an Abonnenten gesendet, von denen keine Bestätigung "
+"vorliegt."
+
+msgid "%1$s click"
+msgid_plural "%1$s clicks"
+msgstr[0] "%1$s Klick"
+msgstr[1] "%1$s Klicks"
+
+msgid "%1$s day"
+msgid_plural "%1$s days"
+msgstr[0] "%1$s Tag"
+msgstr[1] "%1$s Tage "
+
+msgid "%1$s emails appear more than once in your file : %2$s."
+msgstr "%1$s erscheinen mehr als ein Mal in Ihrer Datei %2$s."
+
+msgid "%1$s emails are not valid : %2$s."
+msgstr "%1$s E-Mails sind nicht gültig : %2$s"
+
+msgid "%1$s emails every %2$s"
+msgstr "%1$s E-Mails alle %2$s"
+
+msgid "%1$s emails received."
+msgstr "%1$s E-Mails empfangen."
+
+msgid "%1$s emails sent %2$s ago"
+msgstr "%1$s E-Mails gesendet, vor%2$s"
+
+msgid "%1$s hour"
+msgid_plural "%1$s hours"
+msgstr[0] "%1$s Stunde"
+msgstr[1] "%1$s Stunden "
+
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s Minute"
+msgstr[1] "%1$s Minuten"
+
+msgid "%1$s out of %2$s sent."
+msgstr "%1$s von %2$s gesendet."
+
+msgid "%1$s second"
+msgid_plural "%1$s seconds"
+msgstr[0] "%1$s Sekunde"
+msgstr[1] "%1$s Sekunden"
+
+msgid "%1$s subscriber have been added to \"%2$s\"."
+msgstr "%1$s Abonnenten wurden hinzugefügt zu \"%2$s\"."
+
+msgid "%1$s subscriber have been confirmed."
+msgstr "%1$s Abonnent(in) wurde bestätigt."
+
+msgid "%1$s subscriber have been moved to \"%2$s\"."
+msgstr "%1$s Abonnent(in) wurde verschoben nach \"%2$s\"."
+
+msgid "%1$s subscriber have been removed from \"%2$s\"."
+msgstr "%1$s Abonnent(in) wurde aus \"%2$s\" entfernt."
+
+msgid "%1$s subscriber have been removed from all exising lists."
+msgstr "%1$s Abonnent(in) wurde in allen bestehenden Listen entfernt."
+
+msgid "%1$s subscribers added to %2$s."
+msgstr "%1$s Abonnenten wurden hinzugefügt zu \"%2$s\"."
+
+msgid "%1$s subscribers have been added to \"%2$s\"."
+msgstr "%1$s Abonnenten wurden hinzugefügt zu \"%2$s\"."
+
+msgid "%1$s subscribers have been confirmed."
+msgstr "%1$s Abonnenten wurden bestätigt."
+
+msgid "%1$s subscribers have been moved to \"%2$s\"."
+msgstr "%1$s Abonnenten wurden verschoben nach \"%2$s\"."
+
+msgid "%1$s subscribers have been removed from \"%2$s\"."
+msgstr "%1$s Abonnenten wurden aus \"%2$s\" entfernt."
+
+msgid "%1$s subscribers have been removed from all exising lists."
+msgstr "%1$s Abonnenten wurden in allen bestehenden Listen entfernt."
+
+msgid ""
+"%1$s subscribers were exported. Get the exported file [link]here[/link]."
+msgstr ""
+"%1$s Abonnenten wurden exportiert. Die Export-Datei gibt´s [link]hier[/link]."
+
+msgid "%1$s week"
+msgid_plural "%1$s weeks"
+msgstr[0] "%1$s Woche "
+msgstr[1] "%1$s Wochen"
+
+msgid "%1$s year"
+msgid_plural "%1$s years"
+msgstr[0] "%1$s Jahr"
+msgstr[1] "%1$s Jahre "
+
+msgid "%1$s's import list"
+msgstr "%1$ss Import Liste"
+
+msgid "%1$sth"
+msgstr "den %1$s."
+
+msgid ""
+"%s exceeds the maximum upload size for the multi-file uploader when used in "
+"your browser."
+msgstr ""
+"%s übersteigt die maximale Upload-Größe für den Mehr-Dateien-Uploader, wenn "
+"Sie ihn im Browser benutzen."
+
+msgid "%s exceeds the maximum upload size for this site."
+msgstr "%s überschreitet die Größenbeschränkung für Uploads auf dieser Seite."
+
+msgid "%sTo edit%s, mouse over to show edit button below."
+msgstr ""
+"%sZum Bearbeiten%s unten mit dem Mauszeiger hinüberfahren, um den Button zum "
+"Bearbeiten zu zeigen."
+
+msgid "&#8220;%s&#8221; has failed to upload."
+msgstr "&#8220;%s&#8221; konnte nicht hochgeladen werden."
+
+msgid "&laquo;"
+msgstr "&laquo;"
+
+msgid "&lt; Prev"
+msgstr "&lt; Vorgänger"
+
+msgid "&raquo;"
+msgstr "&raquo;"
+
+msgid "'%1$s' does not exist!"
+msgstr "'%1$s' gibt es nicht!"
+
+msgid "(%1$s votes)"
+msgstr "(%1$s Stimmen)"
+
+msgid ", %1$s of which were %2$s"
+msgstr ", %1$s davon wurden %2$s"
+
+msgid "... or duplicate one below to copy its design."
+msgstr ""
+"... oder einen aus der untenstehenden Liste duplizieren, um das Design zu "
+"kopieren."
+
+msgid "1 hour"
+msgstr "1 Stunde"
+
+msgid "12 Cool Reasons to Upgrade to Premium"
+msgstr "12 coole Gründe, um auf die Premium-Version aufzurüsten"
+
+msgid "15 minutes"
+msgstr "15 Minuten"
+
+msgid "1st"
+msgstr "Ersten"
+
+msgid "2 hours"
+msgstr "2 Stunden"
+
+msgid "2nd"
+msgstr "Zweiten"
+
+msgid "30 minutes"
+msgstr "30 Minuten"
+
+msgid "30-Day money back guarantee. Good reason to try us out."
+msgstr "30 Tage Geld-Zurück-Garantie. Ein guter Grund, uns auszuprobieren"
+
+msgid "3rd"
+msgstr "Dritten"
+
+msgid "4 min survey to better understand what you need"
+msgstr ""
+"Eine 4 Minuten-Umfrage, damit wir besser verstehen, was nützlich für Sie ist"
+
+msgid "5 Minute User Guide"
+msgstr "5-Minuten-Benutzeranleitung"
+
+msgid "5 minute newbie guide"
+msgstr "5 Minuten Anfängerinformation"
+
+msgid "<< Back"
+msgstr "<< Zurück"
+
+msgid "A Brand New Wysija. Let the Fun Begin."
+msgstr "Ein brandneues Wysjia. Der Spaß kann beginnen"
+
+msgid "A new list \"%1$s\" has been created out of this segment."
+msgstr "Eine neue Liste \"%1$s\" wurde außerhalb dieser Auswahl erstellt."
+
+msgid "A new poll to get to know you better"
+msgstr "Eine neue Umfrage zu bekommen, um Sie besser zu kennen"
+
+msgid ""
+"A subscriber mistakenly hit the unsubscribe link in your newsletter? He can "
+"now undo this in 1 click. Hurray."
+msgstr ""
+"Ein Abonnent hat aus Versehen den Abmelden Link in Ihrem Newsletter "
+"geklickt? Er kann dies nun mit einem Klick rückgängig machen. Hurra."
+
+msgid ""
+"A theme called %1$s exists already. To overwrite it, tick the corresponding "
+"checkbox before uploading."
+msgstr ""
+"Ein Theme mit dem Namen %1$s existiert bereits. Um es zu überschreiben, "
+"markieren Sie vor dem Hochladen die entsprechende Checkbox."
+
+msgid "Action Required"
+msgstr "Eingreifen erforderlich"
+
+msgid "Actions & Notifications"
+msgstr "Aktionen & Benachrichtigungen"
+
+msgid "Actions will be executed after %1$s messages"
+msgstr "Die Maßnahmen werden nach %1$s Nachrichten ausgeführt werden"
+
+msgid "Activate"
+msgstr "Aktivieren"
+
+msgid "Activate Plugin"
+msgstr "Plugin aktivieren"
+
+msgid "Activate bounce and check every..."
+msgstr "Aktiviere die Rückläuferbehandlung und prüfe alle..."
+
+msgid "Activate if your SMTP ports are blocked."
+msgstr "Aktivieren, falls Ihre SMTP ports blockiert sind."
+
+msgid "Activate now"
+msgstr "Jetzt aktivieren"
+
+msgid "Activate this plugin"
+msgstr "Plugin aktivieren"
+
+msgid "Activate your Premium licence."
+msgstr "Aktivieren Sie Ihre Premiumlizenz."
+
+msgid "Add"
+msgstr "Hinzufügen"
+
+msgid "Add / Edit group of posts"
+msgstr "Gruppe von Beiträgen hinzufügen / bearbeiten"
+
+msgid "Add Images"
+msgstr "Bilder hinzufügen"
+
+msgid "Add Link & Alternative text"
+msgstr "Link & Alternativtext einfügen"
+
+msgid "Add List"
+msgstr "Liste hinzufügen"
+
+msgid "Add Subscriber"
+msgstr "Abonnent hinzufügen"
+
+msgid ""
+"Add a link in the footer of all your newsletters so subscribers can edit "
+"their profile and lists. [link]See your own subscriber profile page.[/link]"
+msgstr ""
+"Fügen Sie in dem Fußbereich Ihrer Newsletter einen Link hinzu, sodass "
+"Abonnenten Ihr Profil und Ihre Listenauswahl bearbeiten können. [link]Sehen "
+"Sie Ihre eigene Abonnenten-Profilseite.[/link]"
+
+msgid "Add first or last name of subscriber"
+msgstr "Vor- oder Nachnamen des Abonnenten hinzufügen"
+
+msgid "Add link / Alternative text"
+msgstr "Link / alternativen Text einfügen"
+
+msgid "Add list"
+msgstr "Liste hinzufügen"
+
+msgid "Add more themes"
+msgstr "Mehr Themes hinzufügen"
+
+msgid ""
+"Add this signature to your emails with Wysija. Spam filters can then "
+"authenticate your emails and your domain."
+msgstr ""
+"Diese Signatur wird Ihren E-Mails von Wysija hinzugefügt. Spam-Filter können "
+"dann Ihre E-Mail und Ihre Domain authentifizieren."
+
+msgid "Add to list"
+msgstr "Zur Liste hinzufügen"
+
+msgid ""
+"Add your [stars] on [link]wordpress.org[/link] and keep this plugin "
+"essentially free."
+msgstr ""
+"Fügen Sie Ihre Bewertung [stars] auf [link]wordpress.org[/link] hinzu und "
+"tragen Sie dazu bei, dieses Plugin im Wesentlichen kostenfrei zu halten."
+
+msgid "Added"
+msgstr "Element hinzufügt"
+
+msgid "Address:"
+msgstr "Adresse:"
+
+msgid "After submit..."
+msgstr "Nach dem Absenden..."
+
+msgid "Agency: unlimited sites for $399 / year."
+msgstr "Agentur: unbegrenzt Seiten für $ 399 pro Jahr."
+
+msgid "Align center"
+msgstr "Zentriert"
+
+msgid "Align left"
+msgstr "Linksbündig"
+
+msgid "Align right"
+msgstr "Rechtsbündig"
+
+msgid "All"
+msgstr "Alle"
+
+msgid "All %1$s subscribers are selected."
+msgstr "Alle %1$s Abonnenten sind ausgewählt."
+
+msgid "All Newsletters"
+msgstr "Alle Newsletter"
+
+msgid "All Sent"
+msgstr "Alle gesendeten"
+
+msgid "All categories"
+msgstr "Alle Kategorien"
+
+msgid "All subscribers on this page are selected."
+msgstr "Alle Abonnenten auf dieser Seite sind ausgewählt."
+
+msgid "Allow HTML edits"
+msgstr "Bearbeiten von HTML erlauben"
+
+msgid "Allow site admins to change the sending method"
+msgstr "Erlaube Seiten-Administratoren die Sendemethode zu ändern"
+
+msgid "Allow site admins to deactivate Signup Confirmation"
+msgstr "Erlaube Seiten-Administratoren die Anmeldebestätigung zu deaktivieren"
+
+msgid ""
+"Allow users who register to your site to subscribe on a list of your choice."
+msgstr ""
+"Benutzern, welche sich auf der Seite anmelden erlauben, sich in eine Liste "
+"ihrer Wahl einzutragen."
+
+msgid "Allowed Files"
+msgstr "Erlaubte Dateien"
+
+msgid "Already paid?"
+msgstr "Bereits bezahlt?"
+
+msgid "Alternative text:"
+msgstr "Alternativtext:"
+
+msgid "An error occured. [link]Show more details.[/link]"
+msgstr "Ein Fehler ist aufgetreten. [link]Weitere Details...[/link]"
+
+msgid "An error occurred in the upload. Please try again later."
+msgstr ""
+"Während des Hochladens ist ein Fehler aufgetreten. Bitte versuchen Sie es "
+"später erneut."
+
+msgid ""
+"And make a difference. We're looking for feedback and bug reports on our "
+"upcoming features. [link]Activate the beta in your settings.[/link]"
+msgstr ""
+"Und machen Sie den Unterschied. Wir freuen uns über Rückmeldungen und "
+"Fehlermeldungen zu unseren kommenden Funktionalitäten. [link]Aktivieren Sie "
+"die Beta Version in den Einstellungen.[/link]"
+
+msgid "Apply"
+msgstr "Übernehmen"
+
+msgid ""
+"Are you sure you selected the right port? You can leave it empty if you do "
+"not know what to specify"
+msgstr ""
+"Sind Sie sicher, dass sie den richtigen Port ausgewählt haben? Sie können "
+"dieses Feld auch frei lassen, falls sie nicht genau wissen, was Sie angeben "
+"sollen"
+
+msgid "Are you sure you want to delete this form?"
+msgstr "Sind Sie sicher, dass Sie dieses Formular löschen möchten?"
+
+msgid "Are you sure you want to ignore the %1$s subscribers of the list %2$s?"
+msgstr ""
+"Sind Sie sicher, dass Sie die %1$s Abonnenten der Liste %2$s ignorieren "
+"möchten?"
+
+msgid ""
+"As a premium user, my scheduled tasks are launched directly by wysija.com "
+"each 15 minutes."
+msgstr ""
+"Für mich als Premium-Nutzer werden meine geplante Tasks alle 15 Minuten "
+"direkt von wysija.com gestartet."
+
+msgid "Ask for:"
+msgstr "Fragen nach:"
+
+msgid "Authentication"
+msgstr "Authentifizierung"
+
+msgid "Author:"
+msgstr "Autor:"
+
+msgid "Auto Newsletters"
+msgstr "Automatische Newsletter"
+
+msgid "Automatic latest content"
+msgstr "Automatisch gesicherterInhalt"
+
+msgid "Automatically add paragraphs"
+msgstr "Absätze automatisch hinzufügen"
+
+msgid "Automatically..."
+msgstr "Automatisch..."
+
+msgid "Average rating: %1$s"
+msgstr "Durchschnittliche Bewertung: %1$s"
+
+msgid "Back"
+msgstr "Zurück"
+
+msgid "Back to lists"
+msgstr "Zurück zu den Listen"
+
+msgid "Back to selection"
+msgstr "Zurück zur Auswahl"
+
+msgid "Background"
+msgstr "Hintergrund"
+
+msgid "Background color with alternate"
+msgstr "Hintergrundfarbe wechselnd"
+
+msgid "Batch insert options"
+msgstr "Batchoptionen hinzufügen"
+
+msgid ""
+"Be creative! It's the first thing your subscribers see. Tempt them to open "
+"your email."
+msgstr ""
+"Seien Sie kreativ! Das sehen Ihre Abonnenten zuerst. Bringen Sie sie dazu, "
+"die E-Mail zu öffnen."
+
+msgid "Become a beta tester"
+msgstr "Werde ein Beta-Tester"
+
+msgid "Better subscriber management"
+msgstr "Erweiterte Abonnenten-Verwaltung"
+
+msgid "Blocked IP"
+msgstr "geblockte IP"
+
+msgid "Blog post, online review, forum:"
+msgstr "Blog Post, Online-Rezension, Forum:"
+
+msgid "Blogger: 1 site for $99 / year."
+msgstr "Blogger: 1 site für $99 / Jahr."
+
+msgid "Bookmarks Selection"
+msgstr "Lesezeichen-Auswahl"
+
+msgid "Bounce Email"
+msgstr "Ablehnungs-E-Mail"
+
+msgid "Bounce Handling"
+msgstr "Rückläuferbearbeitung"
+
+msgid "Bounce handling connection test"
+msgstr "Die Verbindung zur Rückläuferbearbeitung wird geprüft."
+
+msgid "Bounce handling processing"
+msgstr "Rückläuferbearbeitung läuft"
+
+msgid "Bounced"
+msgstr "Zurückgewiesen"
+
+msgid "Bulk Actions"
+msgstr "Massenaktionen"
+
+msgid "Button label:"
+msgstr "Button-Aufschrift:"
+
+msgid "CSV file"
+msgstr "CSV-Datei"
+
+msgid "Cancel"
+msgstr "Abbrechen"
+
+msgid "Cancel Upload"
+msgstr "Upload abbrechen"
+
+msgid "Cannot access CSV file. Verify access rights to this directory \"%1$s\""
+msgstr ""
+"Kein Zugriff auf CSV-Datei. Überprüfen Sie die Zugriffsrechte auf dieses "
+"Verzeichnis \"%1$s\""
+
+msgid "Categories:"
+msgstr "Kategorien:"
+
+msgid "Centered"
+msgstr "Mittig ausgerichtet"
+
+msgid "Change log"
+msgstr "Änderungsverlauf"
+
+msgid "Change the footer's content in Wysija's %1$sSettings%2$s page."
+msgstr "Ändern Sie die Fußzeilen auf der Wysija's %1$sEinstellungen%2$s-Seite."
+
+msgid "Charset"
+msgstr "Zeichensatz:"
+
+msgid "Check out [link]our guide[/link] on how to fill out the form."
+msgstr ""
+"Schauen Sie in [link]unsere Anleitung[/link] um mehr über das Ausfüllen von "
+"Formularen zu erfahren."
+
+msgid "Check this box if you want transparency"
+msgstr "Markieren Sie dieses Feld, wenn Sie Transparenz wünschen."
+
+msgid "Check your inbox now to confirm your subscription."
+msgstr ""
+"Bitte prüfen Sie jetzt Ihren Posteingang, um die Anmeldung zu bestätigen."
+
+msgid "Checkboxes"
+msgstr "Kontrollkästchen"
+
+msgid "Cheers, your Wysija Newsletter Plugin"
+msgstr "Applaus - Ihr Wysija Newsletter Plugin"
+
+msgid "Choose a FROM name and email address for notifications emails."
+msgstr ""
+"Wählen Sie einen VON-Namen und E-Mail-Adresse aus, die für die "
+"Benachrichtigungen benutzt wird."
+
+msgid "Choose files to upload"
+msgstr "Wählen Sie, was Sie exportieren möchten"
+
+msgid "Clear selection"
+msgstr "Auswahl aufheben"
+
+msgid "Click"
+msgstr "Klick"
+
+msgid "Click here to add a title or text."
+msgstr "Hier klicken, um einen Titel oder einen Text einzufügen."
+
+msgid "Click here to subscribe"
+msgstr "Hier klicken, um sich anzumelden"
+
+msgid "Click here to view media."
+msgstr "Klicken Sie hier, um die Medien zu sehen."
+
+msgid "Click on the Bounce Handling tab and read our guide if you need help."
+msgstr ""
+"Klicken Sie auf den Rückläuferbearbeitungs-Tab und lesen Sie unsere Hilfe, "
+"falls Sie Unterstützung benötigen."
+
+msgid "Clicked"
+msgstr "Angeklickt"
+
+msgid "Clicked on"
+msgstr "Angeklickt"
+
+msgid "Clicks"
+msgstr "Klicks"
+
+msgid "Close"
+msgstr "Schließen"
+
+msgid "Configuration and Permissions"
+msgstr "Konfiguration und Berechtigungen"
+
+msgid "Configure Bounce Handling, SPF & DKIM independently for each site."
+msgstr ""
+"Konfiguriere die Rückläuferbehandlung, SDF & DKIM für jede Seite individuell."
+
+msgid "Configure each site manually"
+msgstr "Jede Webseite manuell konfigurieren"
+
+msgid "Configure your DNS by adding a key/value record in TXT as shown below."
+msgstr ""
+"Konfigurieren Sie den DNS-Eintrag in dem Sie den unten aufgeführten Text "
+"einfügen."
+
+msgid "Confirm Reinstallation"
+msgstr "Neuinstallation bestätigen"
+
+msgid "Confirm unconfirmed subscribers"
+msgstr "Unbestätigte Abonnenten bestätigen"
+
+msgid "Confirm your subscription to %1$s"
+msgstr "Bestätigen Sie Ihr Abonnement für %1$s"
+
+msgid "Confirmation page content"
+msgstr "Inhalt der Bestätigungsseite"
+
+msgid "Confirmation page title"
+msgstr "Titel der Bestätigungsseite"
+
+msgid "Confirmed subscribers only"
+msgstr "Ausschließlich bestätigte Abonnenten"
+
+msgid "Conflict"
+msgstr "Konflikt"
+
+msgid "Congrats, your Premium license is active. One last step..."
+msgstr "Glückwunsch, Ihre Premium-Lizenz ist aktiviert. Ein letzter Schritt..."
+
+msgid "Connection method"
+msgstr "Verbindungsmethode"
+
+msgid "Contact your administrator to modify that, it should be configurable."
+msgstr ""
+"Kontaktieren Sie Ihren Administrator, um dies zu ändern, es sollte sich "
+"konfigurieren lassen."
+
+msgid "Content"
+msgstr "Inhalt"
+
+msgid "Copy"
+msgstr "Kopieren"
+
+msgid "Copy of "
+msgstr "Kopie von"
+
+msgid "Copy paste in a text box"
+msgstr "kopieren / einfügen in eine Textbox"
+
+msgid "Country, State or Province"
+msgstr "Land"
+
+msgid "Create a new email"
+msgstr "Eine neue E-Mail erstellen"
+
+msgid "Create a new form"
+msgstr "Neues Formular erstellen"
+
+msgid "Create a new list"
+msgstr "Neue Liste anlegen"
+
+msgid "Create an email account dedicated solely to bounce handling."
+msgstr ""
+"Erstellen Sie ein E-Mail-Konto, ausschließlich für die Bearbeitung von "
+"Rückläufern."
+
+msgid ""
+"Create and send newsletters. Import and manage your lists. Add subscription "
+"forms in widgets, articles and pages. Wysija is a freemium plugin updated "
+"regularly with new features."
+msgstr ""
+"Erstellen und senden Sie Newsletter. Importieren und verwalten Sie Ihre "
+"Listen. Fügen Sie Abonnement-Formulare in Widgets, Artikeln und auf Seiten "
+"hinzu. Wysija ist ein sogenanntes \"freemium\"-Plugin, welches regelmäßig "
+"mit neue Features aktualisiert wird."
+
+msgid "Created on"
+msgstr "Erstellt am"
+
+msgid "Crunching&hellip;"
+msgstr "Verarbeiten&hellip;"
+
+msgid "Current day of the month in ordinal, ie. 2nd, 3rd, etc."
+msgstr "Aktueller Tag des Monats als Ordnungszahl (z.B.: 1., 2., 3. etc.)"
+
+msgid "Current day of the month number"
+msgstr "Aktueller Tag des Monats (Ziffer)"
+
+msgid "Current month number"
+msgstr "Aktueller Monat (Zahl)"
+
+msgid "Custom horizontal line"
+msgstr "Benutzerdefinierte horizontale Linie"
+
+msgid "DKIM signature"
+msgstr "DKIM Signatur"
+
+msgid "Daily summary of emails sent"
+msgstr "Tägliche Zusammenfassung gesendeter E-Mails"
+
+msgid "Data is not available."
+msgstr "Daten sind nicht verfügbar"
+
+msgid "Date"
+msgstr "Datum"
+
+msgid "Date created"
+msgstr "Erstellungsdatum"
+
+msgid "Date or birthday"
+msgstr "Datum oder Geburtstag"
+
+msgid "Day"
+msgstr "Tag"
+
+msgid "Debug mode"
+msgstr "Debug-Modus"
+
+msgid "Default style saved."
+msgstr "Der Standard-Stil wurde gespeichert."
+
+msgid "Delete"
+msgstr "Löschen"
+
+msgid "Delete image for all newsletters?"
+msgstr "Bild für alle Newsletter löschen?"
+
+msgid "Delete subscribers"
+msgstr "Abonnenten löschen"
+
+msgid "Delete the user"
+msgstr "Benutzer löschen"
+
+msgid "Delete this newsletter for ever?"
+msgstr "Diesen Newsletter unwiderruflich löschen?"
+
+msgid "Deleting a list will not delete any subscribers."
+msgstr "Das Löschen einer Liste entfernt keine Abonnenten."
+
+msgid "Delivery method"
+msgstr "Auslieferungsmethode"
+
+msgid "Description"
+msgstr "Beschreibung"
+
+msgid "Details & PSD"
+msgstr "Details & PSD"
+
+msgid "Device"
+msgstr "Device"
+
+msgid "Did these subscribers ask to be in your list?"
+msgstr "Wurden Sie von diesen Abonnenten um Aufnahme in Ihre Liste gebeten?"
+
+msgid "Dismiss"
+msgstr "Ablehnen"
+
+msgid "Display and insert options"
+msgstr "Anzeige und setzen Optionen"
+
+msgid "Display label within input:"
+msgstr "Zeige Beschriftung innerhalb des Feldes:"
+
+msgid "Display labels in inputs"
+msgstr "Aufschriften in den Eingabefeldern anzeigen"
+
+msgid "Display problems? [link]View this newsletter in your browser.[/link]"
+msgstr ""
+"Darstellungsprobleme? [link]Schauen Sie sich diesen Newsletter in Ihrem "
+"Browser an.[/link]"
+
+msgid "Display..."
+msgstr "Zeige..."
+
+msgid ""
+"Displays at the top of your newsletters. Don't forget to include the link "
+"tag, ie: [link]The link[/link]"
+msgstr ""
+"Wird in der Kopfzeile Ihres Newsletters angezeigt. Vergessen Sie nicht, das "
+"Link-Schlagwort hinzuzufügen, z.B.: [link]Der Link[/link]"
+
+msgid "Divider"
+msgstr "Trennbalken"
+
+msgid "Divider Selection"
+msgstr "Trennstrich-Auswahl"
+
+msgid "Dividers Selection"
+msgstr "Trennstrich-Auswahl"
+
+msgid "Do nothing"
+msgstr "Nichts machen."
+
+msgid "Do you want to install that version?"
+msgstr "Möchten Sie diese Version installieren?"
+
+msgid "Does it work? Try to connect."
+msgstr "Funktioniert es? Versuche zu verbinden."
+
+msgid "Domain"
+msgstr "Domain"
+
+msgid ""
+"Don't forget to include: <br><br>[activation_link]Confirm your subscription."
+"[/activation_link]. <br><br>Optional: [lists_to_confirm]."
+msgstr ""
+"Vergessen Sie nicht hinzuzufügen: <br><br>[activation_link]Bestätigen Sie "
+"ihre Anmeldung.[/activation_link]. <br><br>Optional: [lists_to_confirm]"
+
+msgid "Don't like my style?"
+msgstr "Gefählt ihnen mein Stil nicht?"
+
+msgid "Don't send to existing subscribers, only to future ones."
+msgstr "Nicht an aktuelle Abonnenten senden, nur an zukünftige."
+
+msgid "Don't wait & send right now."
+msgstr "Ohne Warten sofort senden."
+
+msgid "Done"
+msgstr "Fertig"
+
+msgid "Download"
+msgstr "Herunterladen"
+
+msgid "Download as .zip"
+msgstr "Als Zip-Datei herunterladen"
+
+msgid "Download beautiful themes by known designers."
+msgstr "Laden Sie wunderschöne Themes von bekannten Designern herunter."
+
+msgid "Download more beautiful themes."
+msgstr "Laden Sie mehr wunderschöne Themes herunter."
+
+msgid "Download original Photoshop file"
+msgstr "Originale Photoshopdateien herunterladen"
+
+msgid "Downloading Wysija"
+msgstr "Wysija herunterladen"
+
+msgid "Downloading Wysija Premium"
+msgstr "Wysija Premium wird heruntergeladen"
+
+msgid "Downloads: %1$s"
+msgstr "Downloads: %1$s"
+
+msgid "Draft"
+msgstr "Entwurf"
+
+msgid "Drag and drop %1$stext, posts, dividers.%2$s Look on the right!"
+msgstr ""
+"Ziehen und ablegen von %1$sText, Artikeln, Abschnitten.%2$s Das ERgebnis "
+"sehen Sie rechts!"
+
+msgid "Drag the widgets below into your newsletter."
+msgstr "Ziehen Sie die Widgets unten in Ihren Newsletter."
+
+msgid "Drop files here"
+msgstr "Dateien hier ablegen."
+
+msgid "Drop your footer image here."
+msgstr "Fügen Sie Ihr Bild für den Fußbereich hier ein."
+
+msgid "Drop your logo in this header."
+msgstr "Fügen Sie Ihr Logo oder Titel in den Kopfbereich ein."
+
+msgid "Dropdown list"
+msgstr "Drop-down-Liste"
+
+msgid "Duplicate"
+msgstr "Duplizieren"
+
+msgid ""
+"Each time one of our users forgets to write a review, a kitten dies. It's "
+"sad and breaks our hearts. [link]Add your own review[/link] and save a "
+"kitten today."
+msgstr ""
+"Jedes mal, wenn ein Benutzer vergisst, eine Bewertung zu schreiben, geht es "
+"einem Kätzchen schlecht. Das ist traurig und bricht uns das Herz. "
+"[link]Schreiben Sie eine Bewertung[/link] und retten Sie noch heute einem "
+"Kätzchen den Tag!"
+
+msgid ""
+"Easy to setup. Limited to 500 emails a day. We recommend that you open a "
+"dedicated Gmail account for this purpose."
+msgstr ""
+"Einfach einzurichten. Begrenzt auf 500 E-Mails pro Tag. Wir empfehlen Ihnen, "
+"für diesen Zweck ein eigenes Gmail-Konto einzurichten."
+
+msgid "Edit"
+msgstr "Bearbeiten"
+
+msgid "Edit Automatic latest content"
+msgstr "Den letzten automatisch gesicherten Inhalt bearbeiten"
+
+msgid "Edit Lists"
+msgstr "Listen bearbeiten."
+
+msgid "Edit lists"
+msgstr "Listen bearbeiten"
+
+msgid "Edit name"
+msgstr "Name bearbeiten"
+
+msgid "Edit or create new"
+msgstr "Bearbeiten oder ein neues erstellen."
+
+msgid "Edit subscription page link"
+msgstr "Den Link zur Anmeldeseite bearbeiten"
+
+msgid "Edit text"
+msgstr "Text bearbeiten"
+
+msgid "Edit your subscriber profile: %1$s"
+msgstr "Bearbeiten Sie Ihr Profil : %1$s"
+
+msgid "Edit your subscription"
+msgstr "Bearbeiten Sie Ihr Abonnement"
+
+msgid "Edit your subscriptions"
+msgstr "Bearbeiten Sie Ihre Abonnements"
+
+msgid "Editing list %1$s"
+msgstr "Liste bearbeiten %1$s"
+
+msgid "Element has been deleted."
+msgstr "Das Element wurde gelöscht."
+
+msgid "Elements deleted"
+msgstr "Elemente gelöscht"
+
+msgid "Email"
+msgstr "E-Mail"
+
+msgid "Email %1$s already exists."
+msgstr "Die E-Mail %1$s existiert bereits."
+
+msgid "Email Address"
+msgstr "E-Mail-Adresse"
+
+msgid "Email Status"
+msgstr "E-Mail-Status"
+
+msgid "Email content"
+msgstr "Inhalt der E-Mail"
+
+msgid "Email notifications"
+msgstr "E-Mail-Benachrichtigungen"
+
+msgid "Email subject"
+msgstr "Betreff der E-Mail"
+
+msgid "Email will be sent to %1$s at %2$s"
+msgstr "Die E-Mail wird um %2$s an %1$s gesendet werden"
+
+msgid "Enable Wysija's Cron"
+msgstr "Wysijas Cron aktivieren"
+
+msgid "Enable activation email"
+msgstr "Schalten Sie die Aktivierungs-E-Mail ein."
+
+msgid ""
+"Enable this to show Wysija's errors. Our support might ask you to enable "
+"this if you seek their help."
+msgstr ""
+"Aktivieren Sie dies um Fehlermeldungen von Wysija zu zeigen, Unser Support "
+"könnte Sie eventuell darum bitten, dieses freizugeben, falls Sie dessen "
+"Hilfe suchen."
+
+msgid "Enabled"
+msgstr "Möglich"
+
+msgid ""
+"Enforce all sites to send with a unique FROM email address. You only need to "
+"configure the Automated Bounce Handling (Premium), SPF & DKIM only once."
+msgstr ""
+"Zwinge alle sites mit einer einzigartigen VON E-Mail-Adresse zu senden. Sie "
+"müssen dann die automatische Rückläuferbehandlung (Premium), SPF und DKIM "
+"nur einmal konfigurieren."
+
+msgid ""
+"Enter the email addresses that should receive notifications (separate by "
+"comma)."
+msgstr ""
+"Geben Sie die E-Mail-Adressen an, die eine Benachrichtigung erhalten sollen "
+"(unterteilt durch Komma)."
+
+msgid "Error Saving newsletter..."
+msgstr "Fehler beim Speichern des Newsletters..."
+
+msgid "Error Sending Message <b><i>%s</i></b> to <b><i>%s</i></b>"
+msgstr "Fehler beim Senden der Nachricht<b><i>%s</i></b> an <b><i>%s</i></b>"
+
+msgid "Error Validating the fields"
+msgstr "Fehler beim Überprüfen der Felder"
+
+msgid "Error when inserting emails."
+msgstr "Fehler beim Einfügen von E-Mails."
+
+msgid "Error when inserting list."
+msgstr "Fehler beim Einfügen der Liste."
+
+msgid "Excel for Windows"
+msgstr "Excel für Windows"
+
+msgid "Export"
+msgstr "Daten exportieren"
+
+msgid "Export Subscribers"
+msgstr "Abonnenten exportieren."
+
+msgid "Export confirmed subscribers only"
+msgstr "Nur bestätigte Abonnenten exportieren"
+
+msgid "Export to CSV"
+msgstr "In CSV exportieren"
+
+msgid "Exporting %1$s subscribers"
+msgstr "Exportiere %1$s Abonnenten"
+
+msgid "Extended functionalities to the free version"
+msgstr "Erweiterte Funktionen für die kostenlose Version"
+
+msgid "FROM email address for sites using this method"
+msgstr "Die VON email Adresse für Sites, die diese Methode nutzen"
+
+msgid "Failed Permanently"
+msgstr "Kontinuierlicher Fehler"
+
+msgid "Failed Send"
+msgstr "Senden fehlgeschlagen"
+
+msgid "Fast and efficient support."
+msgstr "Schneller und effizienter Support."
+
+msgid "Field \"%1$s\" is required in table \"%2$s\"."
+msgstr "Feld \"%1$s\" ist erforderlich in der Tabelle \"%2$s\"."
+
+msgid "Field \"%1$s\" needs to be a valid Email."
+msgstr "Feld \"%1$s\" muss eine gültige E-Mail-Adresse sein."
+
+msgid "File"
+msgstr "Datei"
+
+msgid "File canceled."
+msgstr "Datei abgebrochen."
+
+msgid "Fill out the form below so we can connect to it."
+msgstr ""
+"Füllen Sie bitte das Formular unterhalb aus, sodass wir Kontakt mit Ihnen "
+"aufnehmen klnnen."
+
+msgid "Filter"
+msgstr "Auswahl einschränken"
+
+msgid "Filter by category"
+msgstr "Nach Kategorie filtern"
+
+msgid "Filter by type"
+msgstr "Filter bei typ"
+
+msgid "Final step : last details"
+msgstr "Letzter Schritt: Abschließende Einstellungen"
+
+msgid "Final tip: send with a professional email provider."
+msgstr ""
+"Abschließender Tipp: Senden Sie mit einem professionellen E-Mail-Anbieter."
+
+msgid "Find out if a subscriber is really addicted to your newsletters."
+msgstr ""
+"Finden Sie heraus, ob ein Abonnent Ihren Newslettern wirklich verfallen ist."
+
+msgid "Find out what your subscribers do once on your site."
+msgstr "Finden Sie heraus, was Ihre Abonnenten auf Ihrer Seite machen."
+
+msgid "Find out which links are clicked."
+msgstr "Finden Sie heraus, welche Links geklickt werden."
+
+msgid "Find the option in the Advanced tab!"
+msgstr "Sie finden die Option unter der Registerkarte ERWEITERT"
+
+msgid "First Name"
+msgstr "Vorname"
+
+msgid "First Time? See it in Action"
+msgstr "Zum ersten mal? Sehen Sie es in Aktion"
+
+msgid "First name"
+msgstr "Vorname"
+
+msgid "First step: main details"
+msgstr "Erster Schritt: Grundeinstellungen"
+
+msgid "Follow us and don't miss anything!"
+msgstr "Folgen Sie uns und verpassen Sie keine Neuigkeit!"
+
+msgid "Footer"
+msgstr "Fußbereich"
+
+msgid "Footer background"
+msgstr "Hintergrundfarbe für Fußbereich"
+
+msgid "Footer text"
+msgstr "Text für Fußbereich"
+
+msgid "For example, \"Spring email\". [link]Read the guide.[/link]"
+msgstr "Beispielsweise \"Frühlings-E-Mail\". [link]Die Anleitung lesen.[/link]"
+
+msgid "For your own use and never shown to your subscribers."
+msgstr "Für Ihre eigenen Zwecke und wird nie den Abonnenten angezeigt."
+
+msgid "Format"
+msgstr "Format"
+
+msgid "Free"
+msgstr "Frei"
+
+msgid "Freelance: 4 sites for $249 / year."
+msgstr "Freiberufler / Selbstständige: 4 Seiten für $249 pro Jahr."
+
+msgid "Friday"
+msgstr "Freitag"
+
+msgid "Friend recommendation"
+msgstr "Empfehlung an Freunde"
+
+msgid "From"
+msgstr "Von"
+
+msgid "Full name of current day"
+msgstr "Vollständiger Name des aktuellen Tages"
+
+msgid "Full name of current month"
+msgstr "Name des aktuellen Monats"
+
+msgid "Get Help!"
+msgstr "Unterstützung erhalten!"
+
+msgid "Get Premium now"
+msgstr "Jetzt die Premium-Version bestellen"
+
+msgid "Get [link]Wysija Premium[/link] to see the link."
+msgstr "Besorge Dir [link]Wysija Premium[/link], um den Link zu sehen."
+
+msgid "Get all MS users"
+msgstr "Alle MS-Benutzer anzeigen"
+
+msgid ""
+"Get beautiful themes and their Photoshop files directly in the visual editor."
+msgstr ""
+"Erhalten Sie grandiose Themes und ihre Photoshop-Dateien direkt im visuellen "
+"Editor."
+
+msgid "Get support"
+msgstr "Erhalten Sie UntersTützung"
+
+msgid "Go Premium!"
+msgstr "Jetzt Premiumnutzer werden!"
+
+msgid "Go premium, you cannot send anymore!"
+msgstr "Kaufen Sie die Premium-Version - Sie können nicht mehr senden!"
+
+msgid "Google Analytics Campaign"
+msgstr "Google Analytics Kampagne"
+
+msgid "Google or other search engine"
+msgstr "Google oder eine andere Suchmaschine"
+
+msgid ""
+"Got a sales question? [link]Get in touch[/link] with Kim, Jo, Adrien and Ben."
+msgstr ""
+"Haben Sie eine Frage zum Verkauf? [link]Nehmen Sie Kontakt auf[/link] zu "
+"Kim, Jo, Adrien und Ben."
+
+msgid "Great, you'll never hear from us again!"
+msgstr "Sie werden nicht wieder von uns hören!"
+
+msgid "HTML"
+msgstr "HTML"
+
+msgid "HTTP error."
+msgstr "HTTP-Fehler."
+
+msgid "Have you had problems with your newsletters being marked as spam?"
+msgstr "Hatten Sie Probleme mit Ihren Newsletter?"
+
+msgid "Header"
+msgstr "Kopfzeile"
+
+msgid "Header background"
+msgstr "HIntergrund der Kopfzeile"
+
+msgid "Heading 1"
+msgstr "Überschrift 1"
+
+msgid "Heading 2"
+msgstr "Überschrift 2"
+
+msgid "Heading 3"
+msgstr "Überschrift 3"
+
+msgid ""
+"Hello!\n"
+"\n"
+"Hurray! You've subscribed to our site.\n"
+"We need you to activate your subscription to the list(s): [lists_to_confirm] "
+"by clicking the link below: \n"
+"\n"
+"[activation_link]Click here to confirm your subscription.[/activation_link]\n"
+"\n"
+"Thank you,\n"
+"\n"
+" The team!\n"
+msgstr ""
+"Hallo!\n"
+"\n"
+"Hurra! Sie haben den Newsletter unserer Seite abonniert.\n"
+"Bitte bestätigen Sie ihr Abonnement der Liste(n): [lists_to_confirm] durch "
+"Klicken des folgenden Links: \n"
+"\n"
+"[activation_link]Hier klicken, um das Abonnement zu bestätigen.[/"
+"activation_link]\n"
+"\n"
+"Dankeschön,\n"
+"\n"
+"Das Team!\n"
+
+msgid "Help yourself. Or let us help you."
+msgstr "Helfen Sie sich selbst. Oder lassen Sie uns Ihnen helfen."
+
+msgid "Here is the list of bounced emails."
+msgstr "Dies ist die Liste der zurückgewiesenen E-Mails. "
+
+msgid ""
+"Hey! %1$s has an update. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s"
+"\">See version %4$s details</a> or simply <a href=\"%5$s\">update "
+"automatically</a>."
+msgstr ""
+"Es gibt ein Update für %1$s. <a href=\"%2$s\" class=\"thickbox\" title=\"%3$s"
+"\">Details für Version %4$s anschauen</a> oder einfach <a href=\"%5$s"
+"\">automatisch aktualisieren</a>."
+
+msgid "Hey, we're curious! How did you find out about us?"
+msgstr "Hallo, wir sind neugierig! Wie habt Ihr uns gefunden?"
+
+msgid "Hide the geeky options"
+msgstr "Verstecke die bedeutsamen Optionen"
+
+msgid "Hide!"
+msgstr "Verstecken!"
+
+msgid "Horizontal line"
+msgstr "Horizontale Linie"
+
+msgid "Hostname"
+msgstr "Hostname"
+
+msgid "How about a new list?"
+msgstr "Neue Liste anlegen?"
+
+msgid "How did you find out about Wysija?"
+msgstr "Wie haben Sie von Wysija erfahren?"
+
+msgid "How do you want to import?"
+msgstr "Wie wollen Sie importieren?"
+
+msgid "How does it work?"
+msgstr "Wie funktioniert das?"
+
+msgid "How many WordPress sites do you create every year?"
+msgstr "Wie viele WordPress-Seiten erstellen Sie jährlich?"
+
+msgid "How many users on this site create and send newsletters?"
+msgstr ""
+"Wie viele Benutzer auf dieser Website erstellen und versenden Newsletter?"
+
+msgid ""
+"How much money did you spend on Premium themes or plugins in the past year?"
+msgstr ""
+"Wieviel Geld haben Sie letztes jahr für Premium themes oder plugins "
+"ausgegeben?"
+
+msgid "How spammy is this newsletter?"
+msgstr "Wie spammig ist dieser Newsletter?"
+
+msgid "How would you feel if you could no longer use us?"
+msgstr "Wie würden Sie sich fühlen, wenn Sie uns nicht mehr benutzen würden?"
+
+msgid ""
+"Howdy,\n"
+"\n"
+"The subscriber %1$s has just subscribed to your list \"%2$s\".\n"
+"\n"
+"Cheers,\n"
+"\n"
+"The Wysija Plugin"
+msgstr ""
+"Hallo,\n"
+"\n"
+"der Abonnent %1$s hat sich gerade in Deine Liste \"%2$s\" eingetragen.\n"
+"\n"
+"Grüße,\n"
+"\n"
+"Das Wysija-Plugin"
+
+msgid ""
+"Howdy,\n"
+"\n"
+"The subscriber : %1$s has just unsubscribed to your list \"%2$s\".\n"
+"\n"
+"Cheers,\n"
+"\n"
+"The Wysija Plugin"
+msgstr ""
+"Hallo,\n"
+"\n"
+"der Abonnent %1$s hat sich gerade aus Deiner Liste \"%2$s\" ausgetragen.\n"
+"\n"
+"Grüße,\n"
+"\n"
+"Das Wysija-Plugin"
+
+msgid ""
+"I'll setup a cron job on my server to execute at the frequency I want. Read "
+"about [link]setting up a cron job yourself[/link]."
+msgstr ""
+"Ich werde einen Cron Job, welcher in der gewünschten Regelmässigkeit "
+"ausgeführt wird, auf meinem Server einrichten. Erfahren Sie mehr über das "
+"[link]Einrichten eines Cron Jobs[/link]."
+
+msgid "IO error."
+msgstr "IO-Fehler."
+
+msgid "IP address"
+msgstr "IP-Adresse"
+
+msgid ""
+"If I want I can [link]create an additional cron job[/link] on my end to "
+"increase the frequency."
+msgstr ""
+"Wenn ich will, kann ich von hier aus [link] einen zusätzlichen cron job [/"
+"link]einrichten, um die Frequenz zu erhöhen."
+
+msgid "If a theme with the same name exists, overwrite it."
+msgstr "Überschreiben, falls ein Theme mit dem selben Namen existiert."
+
+msgid ""
+"If our Premium was sold as a monthly payment, instead of a yearly payment, "
+"would you consider purchasing it?"
+msgstr ""
+"Wenn unsere Premium-als monatliche Zahlung verkauft wurde, statt einer "
+"jährlichen Zahlung, würden Sie erwägen den Kauf?"
+
+msgid "If the answer is \"no\", consider yourself a spammer."
+msgstr ""
+"Falls die Antwort \"Nein\" ist, können Sie sich selbst als Spammer "
+"betrachten."
+
+msgid "If there is no new content, display:"
+msgstr "Falls es keine neuen Inhalte gibt, zeige an:"
+
+msgid ""
+"If you are an advanced user you can add it with [link_html]HTML[/link_html], "
+"[link_php]PHP[/link_php], [link_iframe]iframe[/link_iframe] or a "
+"[link_shortcode]shortcode[/link_shortcode]"
+msgstr ""
+"Falls Sie ein fortgeschrittener Benutzer sind, können Sie es mittels "
+"[link_html]HTML[/link_html], [link_php]PHP[/link_php], [link_iframe]iFrame[/"
+"link_iframe] oder einem [link_shortcode]Shortcode[/link_shortcode] "
+"hinzufügen."
+
+msgid ""
+"If you confirm the theme switch, it will override your header, footer, "
+"dividers and styles"
+msgstr ""
+"Wenn Sie den Wechsel des Themes bestätigen, werden Ihr Kopf- und Fußbereich "
+"sowie Ihre Trennbalken und Styles überschrieben"
+
+msgid ""
+"If you confirm this, all your current Wysija data will be erased "
+"(newsletters, themes, statistics, lists, subscribers, etc.)"
+msgstr ""
+"Wenn Sie das bestätigen, werden alle Ihre Wysjia-Daten (Newsletter, Themes, "
+"Staistiken, Listen, Empfänger usw.) gelöscht."
+
+msgid ""
+"If you leave this area empty, it will not display once you send your email"
+msgstr ""
+"Wenn Sie diesen Bereich frei lassen, wird er nicht angezeigt werden, wenn "
+"Sie Ihre E-Mail verschicken."
+
+msgid ""
+"If you recently, successfully, sent a lot of emails, those errors may also "
+"be due to your server limitations."
+msgstr ""
+"Wenn Sie gerade viele Mails versendet haben, kann dieser Fehler auch durch "
+"Serverbeschränkungen verursacht werden."
+
+msgid ""
+"If you want to use all capabilities of the uploader, like uploading multiple "
+"files at once, please upgrade to lighttpd 1.5."
+msgstr ""
+"Wenn Sie alle Möglichkeiten des Uploaders nutzen wollen, wie das Hochladen "
+"von mehreren Dateien auf einmal, bitte Upgrade auf lighttpd 1.5."
+
+msgid "Ignore column..."
+msgstr "Spalte ignorieren..."
+
+msgid "Ignore current subscribers"
+msgstr "Aktuelle Abonnenten ignorieren"
+
+msgid "Image"
+msgstr "Abbildung"
+
+msgid "Image Parameters"
+msgstr "Bildeigenschaften"
+
+msgid "Image alignment"
+msgstr "Bildausrichtung"
+
+msgid "Image has been deleted."
+msgstr "Das Bild wurde gelöscht."
+
+msgid "Image selection has been saved."
+msgstr "Die Bildauswahl wurde gespeichert."
+
+msgid "Image selection has not been saved."
+msgstr "Die Bildauswahl ist noch nicht gespeichert."
+
+msgid "Image width"
+msgstr "Bildbreite"
+
+msgid "Images"
+msgstr "Bilder"
+
+msgid "Import"
+msgstr "Daten importieren"
+
+msgid "Import Subscribers"
+msgstr "Abonnenten importieren."
+
+msgid "Import from %1$s"
+msgstr "Importieren aus %1$s"
+
+msgid "Import from plugin %1$s has been cancelled."
+msgstr "Import von Plugin %1$s wurde abgebrochen."
+
+msgid "Import from plugin %1$s has been completed."
+msgstr "Import von Plugin %1$s ist vollständig."
+
+msgid "Import subscribers from plugins"
+msgstr "Abonnenten von Plugins importieren"
+
+msgid "Import the %1$s subscribers from the plugin: %2$s "
+msgstr "Importiere die %1$s Abonnenten vom Plugin: %2$s "
+
+msgid ""
+"Improve your spam score. Wysija can sign all your emails with DKIM. "
+"[link]Read more.[/link]"
+msgstr ""
+"Verbessern Sie Ihren Spam-Score. Wysija kann alle Ihre E-Mails mit DKIM "
+"signieren. [link] Weiterlesen. [/ link]"
+
+msgid "Improved"
+msgstr "Verbessert"
+
+msgid "In Queue"
+msgstr "In der Warteschlange"
+
+msgid "Include author"
+msgstr "Autor hinzufügen"
+
+msgid "Include categories"
+msgstr "Kategorien hinzufügen"
+
+msgid "Includes: %1$s"
+msgstr "Enthält:  %1$s"
+
+msgid "Increase your deliverability with DKIM."
+msgstr "Verbessern Sie Ihre Zustellbarkeit mit DKIM."
+
+msgid "Industry"
+msgstr "Branche"
+
+msgid "Information is missing."
+msgstr "Fehlende Information."
+
+msgid "Insert"
+msgstr "Einfügen"
+
+msgid "Insert Subscription Form"
+msgstr "Füge das Anmeldeformular ein"
+
+msgid "Insert Total of Subscribers"
+msgstr "Legen Insgesamt Abonnenten"
+
+msgid ""
+"Insert [newsletter:total] to show number of posts, [newsletter:post_title] "
+"to show the latest post's title & [newsletter:number] to display the issue "
+"number."
+msgstr ""
+"Setzen Sie [total] ein, um die Anzahl der Beiträge zu zeigen, [post_title] "
+"um die Titel der neuesten Beiträge zu zeigen und [number], um die Nummer des "
+"Themas anzeigen zu lassen."
+
+msgid "Insert form"
+msgstr "Formular einfügen"
+
+msgid "Insert selected"
+msgstr "Legen Sie ausgewählt"
+
+msgid "Inserting selected articles..."
+msgstr "Ausgewählte Artikel hinzufügen..."
+
+msgid "Install Themes"
+msgstr "Themes installieren"
+
+msgid "Install the Premium plugin."
+msgstr "Installiere das Premium-Plugin"
+
+msgid "Installing Wysija Newsletter Premium plugin"
+msgstr "Das Wysjia Newsletter Premium plugin wird installiert"
+
+msgid "Is this field mandatory?"
+msgstr "Ist dieses Feld ein Pflichtfeld?"
+
+msgid "Issue number"
+msgstr "Nummer der Ausabe"
+
+msgid ""
+"It doesn't always work the way we want it to, doesn't it? We have a "
+"[link]dedicated support website[/link] with documentation and a ticketing "
+"system."
+msgstr ""
+"Es funktioniert nicht immer ganz so, wie wir es möchten, nicht wahr? Wir "
+"haben eine [link]besondere Support-Website[/link] eingerichtet, mit einer "
+"Dokumentation und einem Ticketing-System."
+
+msgid ""
+"It seems your widget has been deleted from the WordPress' [link]widgets "
+"area[/link]."
+msgstr ""
+"Es sieht aus, als wäre Ihr Widget aus dem [link]Widget-Bereich[/link] in "
+"WordPress gelöscht worden."
+
+msgid "It's like a valet service from the engineers themselves."
+msgstr "Es ist wie ein Valet-Service von den Ingenieuren selbst."
+
+msgid "Join our happy users."
+msgstr "Treten Sie unseren glücklichen Nutzern bei."
+
+msgid "Keep this plugin essentially free"
+msgstr ""
+"Helfen Sie uns, dieses Plugin grunsätzlich kostenlos zur Verfügung zu stellen"
+
+msgid "Key"
+msgstr "Schlüssel"
+
+msgid "Label:"
+msgstr "Beschriftung:"
+
+msgid "Last"
+msgstr "Letzten"
+
+msgid "Last Name"
+msgstr "Nachname"
+
+msgid "Last name"
+msgstr "Nachname"
+
+msgid "Last updated: %1$s"
+msgstr "Zuletzt aktualisiert : %1$s"
+
+msgid "Latest batch started %1$s"
+msgstr "Letzter Stapel gestartet: %1$s"
+
+msgid "Latest content already sent."
+msgstr "Aktuellste Inhalte wurden bereits versendet."
+
+msgid "Latest post title"
+msgstr "Titel des neusten Beitrags"
+
+msgid "Learn more."
+msgstr "Erfahren Sie mehr."
+
+msgid ""
+"Leave this option to Yes. Only a tiny portion of SMTP services ask "
+"Authentication to be turned off."
+msgstr ""
+"Belassen Sie diese Option auf Ja. Nur eine geringe Zahl von SMTP Services "
+"verlangt, dass die Authentication ausgeschaltet ist."
+
+msgid "Left aligned"
+msgstr "Links ausgerichtet."
+
+msgid "Let subscribers select their lists:"
+msgstr "Lassen Sie Abonnenten Ihre Listen selbst auswählen:"
+
+msgid "Let us handle your bounces."
+msgstr "Lassen Sie sich uns um Ihre Rückläufer kümmern."
+
+msgid "Line is empty"
+msgstr "Die Zeile ist leer "
+
+msgid "Link"
+msgstr "Link"
+
+msgid "Link to browser version"
+msgstr "Link zur Browser-Version"
+
+msgid "Links"
+msgstr "Links"
+
+msgid "List \"%1$s\" has been deleted."
+msgstr "Liste \"%1$s\" wurde gelöscht."
+
+msgid "List \"%1$s\" has been duplicated."
+msgstr "Liste \"%1$s\" wurde dupliziert."
+
+msgid "List \"%1$s\" has been synchronised."
+msgstr "Liste \"%1$s\" wurde synchronisiert."
+
+msgid "List created based on a newsletter segment."
+msgstr "Liste erstellt auf der Grundlage einer Newsletter-Auswahl."
+
+msgid "List has been updated."
+msgstr "Die Liste wurde aktualisiert."
+
+msgid "List of fields to export"
+msgstr "Liste der zu exportierenden Felder"
+
+msgid "List of forms"
+msgstr "Liste der Anmeldeformulare"
+
+msgid "List selection"
+msgstr "Listenauswahl"
+
+msgid "Lists"
+msgstr "Listen"
+
+msgid "Lists and Subscribers"
+msgstr "Listen und Abonnenten"
+
+msgid "Lists to which the subscriber was subscribed."
+msgstr "Listen in die der Abonnent eingetragen war."
+
+msgid "Loading results..."
+msgstr "Lade Ergebnisse..."
+
+msgid "Loading..."
+msgstr "Laden..."
+
+msgid "Login"
+msgstr "Anmelden"
+
+msgid ""
+"Looking for a faster method to send? [link]Read more[/link] on sending with "
+"a professional SMTP."
+msgstr ""
+"Suchen Sie nach einer schnelleren Sendemethode? [link]Lesen Sie mehr[/link] "
+"über das Senden mit einem professionellen SMTP."
+
+msgid "Love kittens?"
+msgstr "Mögen Sie Katzen?"
+
+msgid "MS: bounce, only once"
+msgstr "MS: bounce, nur einmal"
+
+msgid "Mailbox Full"
+msgstr "Der Posteingang ist voll"
+
+msgid "Mailbox not available"
+msgstr "Posteingang nicht verfügbar"
+
+msgid "Match the data"
+msgstr "Abgleichen der Daten"
+
+msgid "Maximum of posts to show"
+msgstr "Höchstanzahl angezeigter Artikel"
+
+msgid "Maximum upload file size: %d%s"
+msgstr "Maximale Upload-Dateigröße: %d%s."
+
+msgid "Maximum upload file size: %d%s."
+msgstr "Maximale Upload-Größe einer Datei: %d%s."
+
+msgid "Memory exceeded. Please try another smaller file."
+msgstr ""
+"Speicher überschritten. Bitte versuchen Sie es mit einer anderen, kleineren "
+"Datei erneut."
+
+msgid "Message delayed"
+msgstr "Nachricht verzögert"
+
+msgid "Method set by the network admin."
+msgstr "Methode gesetzt durch den Netzwerkadministrator."
+
+msgid "Modified On"
+msgstr "Geändert am"
+
+msgid "Modify"
+msgstr "Ändern"
+
+msgid "Monday"
+msgstr "Montag"
+
+msgid "Move to list"
+msgstr "In die Liste verschieben"
+
+msgid "My first list"
+msgstr "Meine erste Liste"
+
+msgid "My rating: %1$s"
+msgstr "Meine Bewertung: %1$s"
+
+msgid "N/A"
+msgstr "k.A."
+
+msgid "Name"
+msgstr "Name"
+
+msgid "Name & email of yourself or your company."
+msgstr "Name & E-Mail von Ihnen oder Ihrer Firma."
+
+msgid "Need help?"
+msgstr "Hilfe erforderlich?"
+
+msgid "Network's Default Sending Method"
+msgstr "Netzwerk Standard Sendemethode"
+
+msgid "Network's Method"
+msgstr "Netzwerkmethode"
+
+msgid "New Form"
+msgstr "Neues Formular"
+
+msgid ""
+"New batch actions: move, add & remove from lists. Confirm the unconfirmed. "
+"Select all subscribers in 1 click. Powerful."
+msgstr ""
+"Neue Massenaktionen: Verschieben, hinzufügen & entfernen aus Listen. "
+"Bestätigen der unbestätigten. Selektieren aller Abonennten in einem Klick. "
+"Mächtig."
+
+msgid "New form"
+msgstr "Neues Formular"
+
+msgid "New list"
+msgstr "Neue Liste"
+
+msgid "New subscriber to %1$s"
+msgstr "Neuer Abonnent für %1$s"
+
+msgid "New subscribers"
+msgstr "Neue Abonnenten"
+
+msgid "Newsletter"
+msgstr "Newsletter"
+
+msgid "Newsletter Images"
+msgstr "Newsletter-Bilder"
+
+msgid "Newsletter Pro (by Satollo)"
+msgstr "Newsletter Pro (von Satollo)"
+
+msgid "Newsletter Subject"
+msgstr "Newsletter Betreff"
+
+msgid "Newsletter can't be deleted."
+msgstr "Der Newsletter kann nicht gelöscht werden."
+
+msgid "Newsletter deleted."
+msgstr "Newsletter gelöscht."
+
+msgid "Newsletter has been saved as a draft."
+msgstr "Newsletter wurde als Entwurf gespeichert."
+
+msgid "Newsletter has been saved."
+msgstr "Newsletter wurde gespeichert."
+
+msgid "Newsletter has been scheduled."
+msgstr "Newsletter wurde geplant."
+
+msgid "Newsletter profile has been updated."
+msgstr "Das Newsletter-Profil wurde aktualisiert."
+
+msgid "Newsletter successfully created."
+msgstr "Newsletter erfolgreich erstellt."
+
+msgid "Newsletters"
+msgstr "Newsletter"
+
+msgid "Newsletters (by Tribulant)"
+msgstr "Newsletters (von Tribulant)"
+
+msgid ""
+"Newsletters are already being sent. Your latest newsletter will be sent "
+"afterwards."
+msgstr ""
+"Die Newsletter sind bereits verschickt. Ihr aktueller Newsletter wird später "
+"gesendet werden."
+
+msgid "Newsletters in Time"
+msgstr "Newsletters in Time"
+
+msgid "Next &gt;"
+msgstr "Nachfolger &gt;"
+
+msgid "Next send out in %1$s"
+msgstr "Nächster Sendetermin in %1$s"
+
+msgid "Next send out on %1$s"
+msgstr "Wird das nächste mal am %1$s versendet"
+
+msgid "Next step"
+msgstr "Nächster Schritt"
+
+msgid "Next try in %s minutes."
+msgstr "Nächster Versuch in %s Minuten."
+
+msgid "No"
+msgstr "Nein"
+
+msgid "No emails have been sent yet."
+msgstr "Bis jetzt wurden noch keine Mails gesendet."
+
+msgid "No list specified"
+msgstr "Keine Liste angegeben"
+
+msgid "No subscriber found, most probably because he was deleted."
+msgstr "Kein Abonnent gefunden, wahrscheinlich wurde er gelöscht."
+
+msgid ""
+"No thanks! I have enough visitors on my site. Their visits will trigger "
+"Wysija's cron automatically."
+msgstr ""
+"Nein, Danke! Ich habe genügend Besucher auf meiner Seite. Ihre Besuche lösen "
+"Wysijas Cron automatisch aus."
+
+msgid "None of your queued emails have been sent? Then activate this option."
+msgstr ""
+"Keine E-Mail aus der Warteschlange wurde gesendet? Dann aktivieren Sie diese "
+"Option."
+
+msgid "Not Configured!"
+msgstr "Nicht konfiguriert!"
+
+msgid "Not active."
+msgstr "Nicht aktiv."
+
+msgid "Not sent yet."
+msgstr "Die E-Mail konnte noch nicht gesendet werden."
+
+msgid "Note:"
+msgstr "Bemerkung:"
+
+msgid ""
+"Note: Find out what this subscriber opened and clicked with our "
+"[link]Premium version.[/link]"
+msgstr ""
+"Anmerkung: Mit der [link]Premium version[/link] kann man herausfinden, was "
+"der Abonnent geöffnet und angeklickt hat."
+
+msgid "Nothing yet!"
+msgstr "Es konnte nichts gefunden werden!"
+
+msgid "On how many sites have you installed our plugin in the last year?"
+msgstr "An wie viele Seiten wurde Sunser Plugin im letzten Jahr installiert?"
+
+msgid "Once a week"
+msgstr "Einmal wöchentlich"
+
+msgid "Once every 28 days"
+msgstr "Einmal alle 28 Tage"
+
+msgid "Once every fifteen minutes"
+msgstr "Einmal alle 15 Minuten"
+
+msgid "Once every five minutes"
+msgstr "Einmal alle 5 Minuten"
+
+msgid "Once every minutes"
+msgstr "Einmal pro Minute"
+
+msgid "Once every ten minutes"
+msgstr "Einmal alle 10 Minuten"
+
+msgid "Once every thirty minutes"
+msgstr "Einmal alle 30 Minuten"
+
+msgid "Once every two hours"
+msgstr "Einmal alle zwei Stunden"
+
+msgid "Once every two minutes"
+msgstr "Einmal alle 2 Minuten"
+
+msgid "One configuration for all sites"
+msgstr "Eine Konfiguration für alle Webseiten"
+
+msgid "One less subscriber to %1$s"
+msgstr "Ein Abonnent weniger in %1$s"
+
+msgid "Oops! Looks like your site's event scheduler (wp-cron) is turned off."
+msgstr ""
+"Upps! Es sieht aus als wäre der Terminplaner (wp-cron) Ihrer Seite "
+"abgestellt."
+
+msgid "Oops! You're already subscribed."
+msgstr "Ups! Sie sind bereits eingetragen."
+
+msgid "Open"
+msgstr "Öffnen"
+
+msgid "Open, clicks, unsubscribed"
+msgstr "Geöffnet, Klicks, Abgemeldet "
+
+msgid "Opened"
+msgstr "Geöffnet"
+
+msgid "Opened date"
+msgstr "Geöffnet am"
+
+msgid "Opened newsletters"
+msgstr "Geöffnete Newsletter"
+
+msgid "Opens"
+msgstr "Öffnet"
+
+msgid "Ordering"
+msgstr "Bestellung"
+
+msgid "Our toolbar doesn't load?"
+msgstr "Unsere Werkzeugleiste lädt sich nicht?"
+
+msgid "POP3 without imap extension"
+msgstr "POP3 ohne IMAP-Erweiterung"
+
+msgid "Page %1$s"
+msgstr "Seite %1$s"
+
+msgid "Page does not exist."
+msgstr "Die Seite existiert nicht."
+
+msgid "Page is not accessible."
+msgstr "Seite ist nicht erreichbar."
+
+msgid "Pages"
+msgstr "Seiten"
+
+msgid "Paragraph text"
+msgstr "Text für Absatz"
+
+msgid "Password"
+msgstr "Passwort"
+
+msgid ""
+"Paste this shortcode to display the number of confirmed subscribers in post "
+"or page"
+msgstr ""
+"Kopieren Sie diesen shortcode um die Anzahl der bestätigten Abonnenten in "
+"Beiträgen oder auf Seiten anzuzeigen"
+
+msgid "Pause"
+msgstr "Pause"
+
+msgid "Paused"
+msgstr "Pausiert"
+
+msgid "Photoshop file available as part of [link]Premium features[/link]."
+msgstr ""
+"Die Verwendung von Photoshop-Dateien ist Teil der [link] Premium-Version [/ "
+"link]."
+
+msgid "Pick a date"
+msgstr "Wählen Sie ein Datum"
+
+msgid "Pick a list"
+msgstr "Wählen Sie eine Liste"
+
+msgid "Pick one improvement which is an absolute must"
+msgstr "Wählen Sie eine Verbesserung, die ein absolutes Muss ist"
+
+msgid "Pick one or many lists"
+msgstr "Wählen Sie eine oder mehrere Listen"
+
+msgid "Pick the lists you want to import those subscribers to."
+msgstr ""
+"Wählen Sie die Listen, in welche diese Abonnenten importiert werden sollen."
+
+msgid "Pick your prefered configuration?"
+msgstr "Wählen Sie Ihre bevorzugte Konfiguration?"
+
+msgid "Please contact your host or server administrator to fix this."
+msgstr ""
+"Bitte kontaktieren Sie ihren Host oder Server Administrator um das Problem "
+"zu beheben."
+
+msgid "Please enter first name"
+msgstr "Bitte den Vornamen eingeben"
+
+msgid "Please enter last name"
+msgstr "Bitte den Nachnamen eingeben"
+
+msgid "Please enter the address where you've found out about us"
+msgstr "Bitte tragen Sie die Adresse ein, wo Sie etwas von uns gehört haben"
+
+msgid "Please make a selection first!"
+msgstr "Bitte zuerst auswählen!"
+
+msgid "Please select a newsletter."
+msgstr "Bitte wählen Sie einen Newsletter aus."
+
+msgid "Please select an article"
+msgstr "Bitte wählen Sie einen Artikel aus"
+
+msgid "Please try uploading this file with the %1$sbrowser uploader%2$s."
+msgstr ""
+"Bitte versuchen Sie, diese Datei mit dem %1$sBrowser-Uploader%2$s "
+"hochzuladen."
+
+msgid ""
+"Please update your WordPress to the latest version, in order to get the "
+"latest uploading system."
+msgstr ""
+"Bitte aktualisieren Sie WordPress auf die neueste Version, um das aktuellste "
+"System zum Hochladen zu erhalten."
+
+msgid "Please verify your link to this page."
+msgstr "Bitte überprüfen Sie den Link zu dieser Seite."
+
+msgid ""
+"Please verify your mail configuration and make sure you can send a test of "
+"this email."
+msgstr ""
+"Bitte überprüfen Sie Ihre E-Mail-Konfiguration und stellen Sie sicher, dass "
+"Sie einen Test dieser E-Mail senden können."
+
+msgid "Plugin is already installed and activated."
+msgstr "Das Plugin wurde bereits installiert und aktiviert."
+
+msgid "Port"
+msgstr "Port"
+
+msgid "Position your mouse over the image to the left."
+msgstr "Bewegen Sie Ihre Maus über das Bild links"
+
+msgid "Post Notifications"
+msgstr "Beitrags-Benachrichtigungen"
+
+msgid "Post Selection"
+msgstr "Beitragsauswahl"
+
+msgid "Posts"
+msgstr "Artikel/Beiträge"
+
+msgid "Preceded by:"
+msgstr "Vorgänger:"
+
+msgid "Premium"
+msgstr "Premium"
+
+msgid "Premium Activated"
+msgstr "Premiumversion aktiviert"
+
+msgid ""
+"Premium licence does not exist for your site. Purchase it [link]here[/link]."
+msgstr ""
+"Für Ihre Seite gibt es keine gültige Premium-Version. Bestellen Sie diese "
+"[link]hier[/link]."
+
+msgid ""
+"Premium user on Multisite? Enjoy configuring the automated bounce for all "
+"sites, once. Too easy."
+msgstr ""
+"Premium Benutzer mit einer Multisite Installation? Geniessen Sie das "
+"einmalige Konfigurieren von automatischen Bounce Einstellungen über alle "
+"Seiten. Zu einfach."
+
+msgid "Premium version is valid for your site."
+msgstr "Sie können jetzt mit der Premiumversion arbeiten."
+
+msgid "Prevent fake signups by sending activation emails to your subscribers."
+msgstr ""
+"Verhindern Sie gefälschte Abonnenten durch der Verschicken einer "
+"Aktivierungs-E-Mail an Ihre Abonnenten."
+
+msgid "Preview"
+msgstr "Vorschau"
+
+msgid "Preview in new tab"
+msgstr "Vorschau in neuem Tab zeigen"
+
+msgid "Preview page"
+msgstr "Voransichtsseite"
+
+msgid "Preview without images"
+msgstr "Vorschau ohne Abbildungen"
+
+msgid "Process bounce handling now!"
+msgstr "Rückläuferbearbeitung jetzt!"
+
+msgid "Process refreshed to avoid a possible loss of connection."
+msgstr ""
+"Vorgang neu begonnen, um den möglichen Verlust von Verbindungen zu vermeiden."
+
+msgid "Process refreshed to avoid a time limit."
+msgstr "Vorgang neu begonnen, um ein Zeitlimit zu vermeiden"
+
+msgid "Purchase the premium version."
+msgstr "Premium-Version erwerben."
+
+msgid "Queue is empty!"
+msgstr "Die Warteschlange ist leer."
+
+msgid "Radio buttons"
+msgstr "Schaltknöpfe"
+
+msgid "Random text or HTML"
+msgstr "Zufälliger Text oder zufälliges HTML"
+
+msgid "Random text or instructions"
+msgstr "Zufälliger Text oder Hinweis"
+
+msgid "Read documentation"
+msgstr "Lesen Sie die Dokumentation"
+
+msgid "Read more"
+msgstr "Mehr lesen"
+
+msgid "Read more."
+msgstr "Mehr..."
+
+msgid "Read online."
+msgstr "Online lesen."
+
+msgid "Read our simple and easy [link]terms and conditions.[/link]"
+msgstr "Lesen Sie unsere einfachen und verständlichen [link]AGB[/link]"
+
+msgid "Registration is disabled on this site."
+msgstr "Die Registration wurde auf dieser Seite deaktiviert"
+
+msgid "Reinstall"
+msgstr "Erneut installieren"
+
+msgid "Reinstall Wysija?"
+msgstr "Wysija erneut installieren?"
+
+msgid "Reinstall from scratch"
+msgstr "Von Grund auf neuinstallieren"
+
+msgid "Reinstall now..."
+msgstr "Jetzt neu installieren..."
+
+msgid "Remove"
+msgstr "Entfernen"
+
+msgid "Remove from all lists"
+msgstr "Aus allen Listen entfernen"
+
+msgid "Remove from list"
+msgstr "Aus der Liste entfernen"
+
+msgid "Remove from the queue"
+msgstr "Aus der Warteschlange entfernen"
+
+msgid "Remove image"
+msgstr "Abbildung entfernen"
+
+msgid "Remove link"
+msgstr "Link entfernen"
+
+msgid "Remove text"
+msgstr "Text entfernen"
+
+msgid "Reply-to name & email"
+msgstr "E-Mail und Name des Antwortempfängers"
+
+msgid "Resend the email with safe links!"
+msgstr "Die E-Mail mit neuen, sicheren Links erneut versenden"
+
+msgid "Resume"
+msgstr "Wieder aufnehmen"
+
+msgid "Right aligned"
+msgstr "Rechts ausgerichtet."
+
+msgid "Roles and permissions"
+msgstr "Rollen und Berechtigungen"
+
+msgid "SMTP Hostname"
+msgstr "SMTP Hostname"
+
+msgid "SMTP port"
+msgstr "SMTP port"
+
+msgid "SPF and DKIM"
+msgstr "SDF und DKIM"
+
+msgid "Saturday"
+msgstr "Samstag"
+
+msgid "Save"
+msgstr "Speichern"
+
+msgid "Save & close"
+msgstr "Speichern & Schließen"
+
+msgid "Save and reactivate"
+msgstr "Speichern und reaktivieren."
+
+msgid "Save as draft and close"
+msgstr "Als Entwurf speichern und schliessen"
+
+msgid "Save settings"
+msgstr "Einstellungen speichern"
+
+msgid "Saved! Add this form to [link_widget]a widget[/link_widget]"
+msgstr ""
+"Gespeichert! Fügen Sie dieses Formular hier hinzu: [link_widget]a widget[/"
+"link_widget]"
+
+msgid "Saved! The changes are already active in your widget."
+msgstr "Gespeichert! Die Änderungen sind bereits in Ihrem Widget aktiv."
+
+msgid "Saved."
+msgstr "Gespeichert."
+
+msgid "Saving default style..."
+msgstr "Speichere Standard-Stil..."
+
+msgid "Saving form..."
+msgstr "Speichere Formular..."
+
+msgid "Saving newsletter..."
+msgstr "Newsletter speichern..."
+
+msgid "Schedule"
+msgstr "Ablaufplan"
+
+msgid "Schedule it"
+msgstr "Planen Sie es"
+
+msgid "Scheduled"
+msgstr "Geplant"
+
+msgid "Scheduled to be sent in %1$s"
+msgstr "Vorgesehen, um in %1$s gesendet zu werden"
+
+msgid "Scheduled to be sent on %1$s"
+msgstr "Vorgesehen, um am %1$s gesendet zu werden"
+
+msgid "Search"
+msgstr "Suchen"
+
+msgid "Search newsletters"
+msgstr "Newsletter suchen"
+
+msgid "Search recipients"
+msgstr "Suche Empfänger"
+
+msgid "Search subscribers"
+msgstr "Abonnenten suchen"
+
+msgid "Second step :  \"%1$s\""
+msgstr "Zweiter Schritt: \"%1$s\""
+
+msgid "Secure connection"
+msgstr "Sichere Verbindung"
+
+msgid "Secure connection(SSL)"
+msgstr "Sichere Verbindung (SSL)"
+
+msgid "Security error."
+msgstr "Sicherheitsfehler."
+
+msgid "See how it works."
+msgstr "Schauen Sie sich an, wie es funktioniert."
+
+msgid "See which links are clicked."
+msgstr "Finden Sie heraus, welche Links angeklickt werden."
+
+msgid "Segment of %1$s"
+msgstr "Teil von %1$s"
+
+msgid "Select Files"
+msgstr "Dateien auswählen"
+
+msgid "Select a form:"
+msgstr "Wählen Sie ein Formular:"
+
+msgid "Select all %1$s subscribers."
+msgstr "Alle %1$s Abonnenten auswählen."
+
+msgid "Select at least 1 subscriber!"
+msgstr "Sie müssen mindestens einen Abonnenten auswählen!"
+
+msgid "Select list(s):"
+msgstr "Liste(n) auswählen:"
+
+msgid "Select post status"
+msgstr "Beitrags-Status wählen"
+
+msgid "Select post type"
+msgstr "Formatvorlage wählen"
+
+msgid "Select the list you want to add:"
+msgstr "Wählen Sie die Liste, die Sie hinzufügen möchten:"
+
+msgid "Select your industry."
+msgstr "Wählen Sie Ihre Branche."
+
+msgid "Selection options"
+msgstr "Gewählte Optionen"
+
+msgid "Self-signed certificates"
+msgstr "Selbst signierte Zertifikate"
+
+msgid "Send"
+msgstr "Senden"
+
+msgid "Send Process"
+msgstr "Sendevorgang"
+
+msgid "Send a test mail"
+msgstr "Sende eine Testmail"
+
+msgid "Send immediately."
+msgstr "Sofort senden."
+
+msgid "Send later"
+msgstr "Später senden"
+
+msgid "Send preview"
+msgstr "Vorschau versenden"
+
+msgid "Send to more than 2000 subscribers."
+msgstr "Senden Sie an mehr als 2000 Abonnenten. "
+
+msgid ""
+"Send with a professional SMTP provider, a great choice for big and small "
+"lists. We've negotiated promotional offers with a few providers for you."
+msgstr ""
+"Versenden mit einem professionellen E-Mail-Dienstleister. Sehr gut geeignet "
+"für große und kleine Listen. Wir haben mit ein paar Dienstleistern Angebote "
+"für Sie ausgehandelt."
+
+msgid ""
+"Send yourself some test emails to confirm which method works with your "
+"server."
+msgstr ""
+"Senden Sie sich selbst ein paar Testmails, um zu überprüfen, welche Methode "
+"auf Ihrem Server funktioniert."
+
+msgid "Send..."
+msgstr "senden..."
+
+msgid "Sender"
+msgstr "Absender"
+
+msgid "Sender of notifications"
+msgstr "Absender der Benachrichtigung"
+
+msgid "Sending"
+msgstr "Beim Senden"
+
+msgid "Sending a test email"
+msgstr "Eine Testmail wird versendet"
+
+msgid "Sending batch of emails..."
+msgstr "E-Mail-Stapel wird versendet..."
+
+msgid "Sending has resumed."
+msgstr "Versenden wird fortgesetzt."
+
+msgid "Sending immediately after someone subscribes to the mailing list %1$s"
+msgstr "Sofort senden, sobald sich jemand in die Mailingliste %1$s einträgt "
+
+msgid "Sending is now paused."
+msgstr "Versenden pausiert."
+
+msgid "Sending per event"
+msgstr "Wird pro Ereignis gesendet"
+
+msgid "Sending preview..."
+msgstr "Vorschau wird gesendet..."
+
+msgid "Sending suspended."
+msgstr "Versenden unterbrochen."
+
+msgid "Sendmail path"
+msgstr "Sendmail Pfad"
+
+msgid "Sent"
+msgstr "Gesendet"
+
+msgid "Sent %2$s after a new user is added to your site as %1$s."
+msgstr ""
+"Sende %2$s, nachdem ein neuer Benutzer zu Ihrer Seite als %1$s hinzugefügt "
+"wurde."
+
+msgid "Sent %2$s after someone subscribes to the mailing list %1$s"
+msgstr "%2$s gesendet, nachdem sich jemand in die Liste %1$s eingetragen hat"
+
+msgid "Sent On"
+msgstr "Gesendet am"
+
+msgid "Sent daily at %1$s."
+msgstr "Wird täglich um %1$s verschickt."
+
+msgid "Sent immediately after a new user is added to your site as %1$s."
+msgstr ""
+"Sofort gesendet, nachdem ein neuer Benutzer zu Ihrer Seite als %1$s "
+"hinzugefügt wird."
+
+msgid "Sent monthly on the %1$s %2$s at %3$s"
+msgstr "Monatlich gesendet am %1$s %2$s um %3$s"
+
+msgid "Sent monthly on the %1$s at %2$s"
+msgstr "Wird monatlich am %1$s um %2$s verschickt"
+
+msgid "Sent to %1$s out of %2$s"
+msgstr "Gesendet an %1$s von %2$s"
+
+msgid "Sent to %1$s subscribers."
+msgstr "An %1$s Abonnenten verschickt."
+
+msgid "Sent weekly on %1$s at %2$s"
+msgstr "Wird wöchentlich am %2$s um %1$s verschickt"
+
+msgid "Set as default style."
+msgstr "Als Standard-Stil festsetzen."
+
+msgid "Set up your DKIM signature."
+msgstr "Richten Sie Ihre DKIM Signatur ein"
+
+msgid "Settings"
+msgstr "Einstellungen"
+
+msgid "Share anonymous data"
+msgstr "Anonyme Daten teilen"
+
+msgid ""
+"Share anonymous data and help us improve the plugin. [link]Read more[/link]."
+msgstr ""
+"Anonyme Daten teilen, um uns bei der Verbesserung des Plugins zu helfen. "
+"[link]Mehr erfahren[/link]."
+
+msgid "Share your data"
+msgstr "Teilen Sie Ihre Daten"
+
+msgid "Share your data, help Wysija"
+msgstr "Teilen Sie ihre Daten und helfen SIe damit Wysija"
+
+msgid "Shortcode to display total number of subscribers"
+msgstr "Shortcode, um die Gesamtzahl der Abonnenten zu zeigen"
+
+msgid "Show"
+msgstr "Zeige"
+
+msgid "Show all months"
+msgstr "Zeige alle Monate"
+
+msgid "Show all themes"
+msgstr "Alle Themes anzeigen"
+
+msgid "Show divider between posts"
+msgstr "Trennstrich zwischen den Beiträgen zeigen"
+
+msgid "Show me more geeky options"
+msgstr "Zeige mir mehr bedeutsame Optionen"
+
+msgid "Size:"
+msgstr "Größe:"
+
+msgid ""
+"So who are we? We're 4 guys who decided in 2011 that WordPress needed a "
+"better emailing solution. The tag line <em>What You Send Is Just Awesome</"
+"em> was born and the acronym Wysija became our name. If you like what we do, "
+"make sure [link]you spread the good word[/link]."
+msgstr ""
+"Also, wer sind wir? Wir sind 4 Jungs, die im Jahr 2011 beschlossen haben, "
+"dass WordPress eine bessere Newsletter Lösung vertragen könnte. DerSlogans "
+"<em> What You Send Is Just Awesome</ em> wurde geboren und die Initialen "
+"Wysija wurden unser Name. Wenn Ihnen gefällt, was wir machen, [link] "
+"empfehlen Sie uns weiter[/ link]."
+
+msgid "Social Bookmark Selection"
+msgstr "Social-Bookmark-Auswahl"
+
+msgid "Social bookmarks"
+msgstr "Social Bookmarks"
+
+msgid "Soon available in [link]Premium[/link]:"
+msgstr "Bald in der [link]Premium-Version[/link] verfügbar:"
+
+msgid "Sorry, you have filled your storage quota (%s MB)."
+msgstr "Ihr Speicherplatz von %s MB ist leider erschöpft."
+
+msgid "Sort by"
+msgstr "Sortierreihenfolge"
+
+msgid ""
+"Spam filters will notice if you send to invalid addresses. Wysija removes "
+"them for you automatically. Your reputation stays clean."
+msgstr ""
+"Spam-Filter stellen fest, ob Sie an ungültige Adressen senden. Wysija "
+"entfernt sie automatisch für Sie. Ihr Ruf bleibt sauber."
+
+msgid "Spam test results"
+msgstr "Ergebnisse des Spam-Tests"
+
+msgid "Split subscribers into %1$s pages."
+msgstr "Teile Abonnenten auf %1$s Seiten auf."
+
+msgid ""
+"Squares or weird characters are displayed in your emails? Select the "
+"encoding for your language."
+msgstr ""
+"In Ihren E-Mails werden Striche oder seltsame Zeichen angezeigt? Wählen Sie "
+"das \"Encoding\" für Ihre Sprache aus."
+
+msgid "Standard Newsletters"
+msgstr "Standard-Newsletter"
+
+msgid "Standard newsletter"
+msgstr "Standard Newsletter"
+
+msgid "Statistics"
+msgstr "Statistiken"
+
+msgid "Stats"
+msgstr "Statistiken"
+
+msgid "Stats : %1$s"
+msgstr "Status : %1$s"
+
+msgid "Stats dashboard"
+msgstr "Statistikübersicht"
+
+msgid "Status"
+msgstr "Status"
+
+msgid "Step %1$s"
+msgstr "Schritt %1$s"
+
+msgid "Step 1:"
+msgstr "Schritt 1:"
+
+msgid "Step 2:"
+msgstr "Schritt 2:"
+
+msgid "Step 3:"
+msgstr "Schritt 3:"
+
+msgid "Step 4:"
+msgstr "Schritt 4:"
+
+msgid "Styles"
+msgstr "Styles"
+
+msgid "Styles could not be saved"
+msgstr "Die Styles konnten nicht gespeichert werden"
+
+msgid "Styles have been saved"
+msgstr "Die Styles wurden gespeichert"
+
+msgid "Subject"
+msgstr "Thema"
+
+msgid "Subject line"
+msgstr "Betreff-Zeile"
+
+msgid "Submit"
+msgstr "Absenden"
+
+msgid "Subscribe in comments"
+msgstr "Abonnieren in Kommentaren"
+
+msgid "Subscribe in registration form"
+msgstr "Über das Registrierungsformular abonnieren"
+
+msgid "Subscribe to our Newsletter"
+msgstr "Melden Sie sich für unseren Newsletter an"
+
+msgid "Subscribe!"
+msgstr "Anmelden!"
+
+msgid "Subscribed"
+msgstr "Eingetragen"
+
+msgid "Subscribed on"
+msgstr "Abonniert"
+
+msgid "Subscribed since"
+msgstr "Abonnent seit"
+
+msgid "Subscribed with..."
+msgstr "Eingetragen mit..."
+
+msgid "Subscribed/unconfirmed"
+msgstr "Eingetragen/unbestätigt"
+
+msgid "Subscriber"
+msgstr "Abonnent"
+
+msgid "Subscriber Status"
+msgstr "Abonnentenstatus"
+
+msgid "Subscriber already exists. [link]Click to edit[/link]."
+msgstr "Abonnent existiert bereits. [link]Klicken zum Bearbeiten[/link]"
+
+msgid "Subscriber has been modified. [link]Edit again[/link]."
+msgstr "Abonnent wurde geändert. [link]Erneut eingeben[/link]."
+
+msgid "Subscriber has been saved."
+msgstr "Abonnent wurde gesichert."
+
+msgid "Subscriber has not been modified."
+msgstr "Abonnent wurde nicht geändert."
+
+msgid "Subscriber has not been saved."
+msgstr "Abonnent wurde nicht gesichert."
+
+msgid "Subscriber not found : <b><i>%s</i></b>"
+msgstr "Abonnent nicht gefunden: <b><i>%s</i></b>"
+
+msgid "Subscribers"
+msgstr "Abonnenten"
+
+msgid "Subscribers can choose from these lists :"
+msgstr "Abonnenten können aus diesen Listen wählen:"
+
+msgid "Subscribers can edit their profile"
+msgstr "Abonnenten können Ihr Profil bearbeiten"
+
+msgid "Subscribers in no list"
+msgstr "Abonnenten ohne Listeneintrag"
+
+msgid "Subscribers per page:"
+msgstr "Abonnenten pro Seite:"
+
+msgid "Subscribers to show per page:"
+msgstr "Abonnenten pro Seite:"
+
+msgid ""
+"Subscribers will now need to activate their subscription by email in order "
+"to receive your newsletters. This is recommended."
+msgstr ""
+"Abonnenten müssen nun ihr Abonnement per E-Mail aktivieren, damit Sie ihren "
+"Newsletter erhalten. Dies ist die empfohlene Einstellung."
+
+msgid "Subscription Wysija"
+msgstr "Wysija-Abonnement"
+
+msgid "Subscription confirmation"
+msgstr "Bestätigung des Eintrags"
+
+msgid "Subscription date"
+msgstr "Datum des Eintrags"
+
+msgid "Subscription form for your newsletters."
+msgstr "Anmeldeformular für Ihren Newsletter"
+
+msgid "Subscription without JavaScript is disabled."
+msgstr "Die Anmeldung ohne JavaScript ist deaktiviert."
+
+msgid "Success message:"
+msgstr "Erfolgsnachricht:"
+
+msgid "Successfully connected to %1$s"
+msgstr "Erfolgreich mit %1$s verbunden"
+
+msgid "Successfully sent to <b><i>%s</i></b>"
+msgstr "Erfolgreich gesendet an <b><i>%s</i></b>"
+
+msgid "Sunday"
+msgstr "Sonntag"
+
+msgid "Support"
+msgstr "Support"
+
+msgid "Switch back to stable"
+msgstr "Zur stabilen Version wechseln"
+
+msgid "Switch to beta"
+msgstr "Zur Beta Version wechseln"
+
+msgid "Tags: %1$s"
+msgstr "Tags: %1$s"
+
+msgid "Take it easy, the plugin does the rest."
+msgstr "Nimm´s leicht, das Plugin macht den Rest."
+
+msgid "Test email successfully sent to %s"
+msgstr "Test-E-Mail erfolgreiche gesendet an %s"
+
+msgid "Text"
+msgstr "Text"
+
+msgid "Text of \"Unsubscribe\" link"
+msgstr "Text des \"Austragen\"-Links"
+
+msgid "Text or number"
+msgstr "Text oder Zahl"
+
+msgid "Thanks!"
+msgstr "Danke!"
+
+msgid "Thanks! Now take me to Wysija."
+msgstr "Danke! Los geht´s mit Wysija"
+
+msgid ""
+"The <strong>from email</strong> value you have entered (%1$s) is not a valid "
+"email address."
+msgstr ""
+"Die <strong>Absender-E-Mail</strong>, die Sie eingetragen haben (%1$s), ist "
+"keine gültige E-Mail-Adresse."
+
+msgid ""
+"The <strong>reply to</strong> email value you have entered (%1$s) is not a "
+"valid email address."
+msgstr ""
+"Die <strong>Antwort-E-Mail-Adresse</strong>, die Sie eingegeben haben "
+"(%1$s), ist keine gültige E-Mail-Adresse."
+
+msgid ""
+"The Google Campaign name needs to be only letters, number, spaces and "
+"hyphens. We'll improve this in the future!"
+msgstr ""
+"Der Google-Campaign-Name darf nur aus Buchstaben, Nummern, Leerzeichen und "
+"Bindestrichen bestehen. Wir werden dies in der Zukunft verbessern!"
+
+msgid "The Little Guide to Premium"
+msgstr "Das kleine Premium-Handbuch."
+
+msgid ""
+"The MySQL user you have setup on your Wordpress site (wp-config.php) doesn't "
+"have enough privileges to CREATE MySQL tables. Please change this user "
+"yourself or contact the administrator of your site in order to complete "
+"Wysija's installation. mysql errors:(%1$s)"
+msgstr ""
+"Der MySQL-Nutzer, den Sie im Setup Ihrer Wordpress-Website (wp-config.php) "
+"eingetragen haben, hat nicht genügend Rechte, um MySQL-Tabellen zu "
+"erstellen. Bitte ändern Sie diesen Benutzer selbst oder wenden Sie sich an "
+"den Administrator der Site, um die Wysija-Installation abzuschließen. MySQL-"
+"Fehler: (%1$s)"
+
+msgid ""
+"The PHP Extension openssl is not enabled on your server. Ask your host to "
+"enable it if you want to use an SSL connection."
+msgstr ""
+"Die PHP-Erweiterung openssl ist nicht auf Ihrem Server aktiviert. Fragen Sie "
+"Ihren Hoster, um sie zu aktivieren, wenn Sie eine SSL-Verbindung verwenden "
+"möchten."
+
+msgid "The Send Process stopped because there are too many errors."
+msgstr ""
+"Das Versenden wurde unterbrochen, weil zu viele Fehler aufgetreten sind."
+
+msgid ""
+"The address will be added to your newsletter's footer. This helps avoid spam "
+"filters."
+msgstr ""
+"Diese Adresse wird in den Fußzeilen Ihres Newsletter hinzugefügt. Das ist "
+"hilfreich gegen Spam-Filter,"
+
+msgid ""
+"The bounce email address \"%1$s\" might actually cause the problem. Leave "
+"the field empty and try again."
+msgstr ""
+"Die bounce-E-Mail Adresse \"%1$s\" dürfte das Problem verursachen. Lassen "
+"Sie das Feld leer und versuchen Sie es noch einmal."
+
+msgid ""
+"The data you are trying to import doesn't appear to be in the CSV format "
+"(Comma Separated Values). [link]Read more[/link]."
+msgstr ""
+"Die Daten, die Sie zu importieren versuchen, sind offenbar nicht im CSV-"
+"Format (Kommagetrennte Liste). [link]Weitere Informationen[/link]."
+
+msgid "The email ID %s is not published"
+msgstr "Die E-Mail-ID %s ist nicht veröffentlicht"
+
+msgid "The email is not valid!"
+msgstr "Keine gültige E-mail Adresse"
+
+msgid ""
+"The first line of a CSV file should be the column headers : \"email\","
+"\"lastname\",\"firstname\"."
+msgstr ""
+"Die erste Zeile der CSV-Datei scheint die Spaltentitel zu enthalten: \"email"
+"\",\"lastname\",\"firstname\"."
+
+msgid ""
+"The first thing your subscribers see. Be creative and increase your open "
+"rate!"
+msgstr ""
+"Das erste, was Ihre Abonnenten sehen. Seien Sie kreativ und erhöhen Sie den "
+"Anteil der geöffneten E-Mails."
+
+msgid ""
+"The folder \"%1$s\" is not writable, please change the access rights to this "
+"folder so that Wysija can setup itself properly."
+msgstr ""
+"In den Ordner \"%1$s\" kann nicht geschrieben werden, bitte ändern Sie die "
+"Schreibrechte für diesen Ordner, damit Wysija sich selbst korrekt einrichten "
+"kann."
+
+msgid "The form named \"%1$s\" has been created."
+msgstr "Das Formular \"%1$s\" wurde erstellt."
+
+msgid "The form named \"%1$s\" has been deleted."
+msgstr "Das Formular \"%1$s\" wurde gelöscht."
+
+msgid ""
+"The list created automatically on import of the plugin's subscribers : \"%1$s"
+msgstr ""
+"Die Liste, die automatisch beim Import der Plugin-Abonnenten erstellt wurde: "
+"\"%1$s"
+
+msgid "The list created automatically on install of the Wysija."
+msgstr "Die Liste wurde bei der Installation von Wysija automatisch erstellt."
+
+msgid "The list does not exists or cannot be deleted."
+msgstr "Die Liste existiert nicht oder kann nicht gelöscht werden."
+
+msgid "The list does not exists or cannot be synched."
+msgstr "Die Liste gibt es nicht, oder sie kann nicht synchronisiert werden."
+
+msgid "The list existed in \"%1$s\" and has been imported automatically."
+msgstr ""
+"Die Liste bestand bereits in \"%1$s\" und wurde automatisch importiert."
+
+msgid "The list has been deleted."
+msgstr "Die Liste wurde gelöscht."
+
+msgid ""
+"The list you've pasted is too big for the browser. <strong>Upload the file</"
+"strong> instead."
+msgstr ""
+"Die Liste, die Sie eingefügt haben, ist zu groß für den Browser. Sie sollten "
+"die Datei stattdessen <strong>hochladen</strong>."
+
+msgid "The newsletter doesn't exist."
+msgstr "Diesen Newsletter gibt es nicht."
+
+msgid "The newsletter has been duplicated."
+msgstr "Der Newsletter wurde dupliziert."
+
+msgid ""
+"The newsletter will be deactivated, you will need to reactivate it once "
+"you're over editing it. Do you want to proceed?"
+msgstr ""
+"Der Newsletter wird deaktiviert, Sie müssen ihn erneut aktivieren, wenn Sie "
+"fertig mit der Überarbeitung sind. Möchten Sie weitermachen?"
+
+msgid "The posts below were added with the widget %sAutomatic latest content%s"
+msgstr ""
+"Die untenstehenden Artikel wurden mit dem Widget %sAutomatic latest content"
+"%s hinzugefügt."
+
+msgid ""
+"The second line of a CSV file should be a set of values : \"joeeg@example.com"
+"\",\"Average\",\"Joe\"."
+msgstr ""
+"Die zweite Zeile der CSV-Datei scheint einen Datensatz zu enthalten: "
+"\"maxm@example.com\",\"Muster\",\"Max\"."
+
+msgid "The segment cannot be unbsubscribed from an [IMPORT] list."
+msgstr "Die Auswahl kann nicht aus der [IMPORT] Liste ausgetragen werden."
+
+msgid "The segment has been removed from the queue of this newsletter."
+msgstr "Die Auswahl wurde aus der Warteschlange dieses Newsletters entfernt."
+
+msgid "The segment has been unbsubscribed from all the lists."
+msgstr "Die Auswahl wurde aus allen Listen entfernt."
+
+msgid "The segment has been unbsubscribed from the list \"%1$s\""
+msgstr "Die Auswahl wurde aus der Liste \"%1$s\" entfernt."
+
+msgid ""
+"The simplest solution for small lists. Your web host sets a daily email "
+"limit."
+msgstr ""
+"Die einfachste Lösung für kleine Listen. Ihr Hosting-Provider könnte ein E-"
+"Mail-Limit gesetzt haben."
+
+msgid "The subscriber list that will be used for this campaign."
+msgstr "Die Abonnentenliste, die für diese Kampagne benutzt wird"
+
+msgid "The theme %1$s has been installed on your site."
+msgstr "Das Theme %1$s wurde auf Ihrer Seite installiert."
+
+msgid ""
+"The theme is available in Premium version only. [link]12 good reasons to "
+"upgrade.[/link]"
+msgstr ""
+"Dieses Theme ist nur in der Premium-Version erhältlich. [link]12 gute "
+"Gründe, ein Upgrade durchzuführen.[/link]"
+
+msgid "The theme you selected could not be loaded."
+msgstr "Das Theme, das Sie ausgewählt haben, konnte nicht geladen werden!"
+
+msgid "The two first lines of the file you've uploaded are as follow:"
+msgstr ""
+"Die beiden ersten Zeilen der Datei, die Sie hochgeladen haben, sind wie "
+"folgt:"
+
+msgid ""
+"The web browser on your device cannot be used to upload files. You may be "
+"able to use the <a href=\"http://wordpress.org/extend/mobile/\">native app "
+"for your device</a> instead."
+msgstr ""
+"Der Browser auf Ihrem Gerät kann nicht benutzt werden, um Dateien "
+"hochzuladen. Versuchen Sie stattdessen, die <a href=\"http://wordpress.org/"
+"extend/mobile/\">native App für Ihr Gerät</a> zu benutzen."
+
+msgid "Theme %1$s could not be deleted."
+msgstr "Das Theme %1$s konnte nicht gelöscht werden."
+
+msgid "Theme %1$s has been deleted."
+msgstr "Das Theme \"%1$s\" wurde gelöscht."
+
+msgid "Themes"
+msgstr "Themes"
+
+msgid "Then paste your list here"
+msgstr "Dann fügen Sie Ihre Liste hier ein"
+
+msgid "There are %1$s messages in your mailbox"
+msgstr "%1$s Nachrichten in Ihrer Mailbox"
+
+msgid "There are %1$s pending email(s)"
+msgstr "Es gibt %1$s schwebende E-Mail(s)"
+
+msgid "There are no articles to be sent in this email."
+msgstr "Es gibt keine Artikel, die in dieser E-Mail versendet werden könnten."
+
+msgid "There are no bounced messages to process right now!"
+msgstr ""
+"Es gibt keine zurückgewiesenen Nachrichten, die bearbeitet werden können!"
+
+msgid "There are no list to send to."
+msgstr "Es gibt keine Listen, an die gesendet werden kann."
+
+msgid "There are no messages"
+msgstr "Keine Nachrichten"
+
+msgid "There are no newsletters."
+msgstr "Es gibt keine Newsletter welche angezeigt werden können."
+
+msgid "There are no posts corresponding to that search."
+msgstr "Es gibt keine Einträge zu dieser Suche."
+
+msgid ""
+"There are plenty of reasons for bounces. Configure what to do in each "
+"scenario."
+msgstr ""
+"Es gibt unterschiedliche Ursachen für Rückläufer. Stellen Sie ein, was "
+"jeweils getan werden soll."
+
+msgid "There is no plugin to import from."
+msgstr "Es gibt kein Plugin, von dem importiert werden kann."
+
+msgid "There is no subject or body in this email"
+msgstr "Diese Mail hat weder einen Betreff noch einen Inhalt"
+
+msgid ""
+"There might be a problem with the list you are trying to import. We have "
+"identified %1$s emails out of %2$s rows."
+msgstr ""
+"Es könnte ein Problem mit der Liste geben, die Sie zu importieren versuchen. "
+"Wir haben %1$s E-Mails aus %2$s Reihen identifiziert."
+
+msgid ""
+"There must be an active 3rd party plugin or theme breaking our interface. "
+"[link]Read more.[/link]"
+msgstr ""
+"Es muss ein aktives Fremdplugin oder -Theme existieren, welches unsere "
+"Oberfläche zerschießt. [link]Weitere Informationen.[/link]"
+
+msgid "There seems to be an error with the list you're trying to import."
+msgstr ""
+"Es scheint ein Problem mit der Liste zu geben, die Sie zu importieren "
+"versuchen."
+
+msgid ""
+"There was a configuration error. Please contact the server administrator."
+msgstr ""
+"Es gab einen Konfigurationsfehler. Bitte kontaktieren Sie den "
+"Serveradministrator."
+
+msgid ""
+"There's no license for \"%1$s\". If you're Premium, add this domain in your "
+"[link]account manager[/link]."
+msgstr ""
+"Es gibt keine Lizenz für \"%s\". Falls Sie die Premium-Version haben, fügen "
+"Sie diese Domain in Ihrem [link]account manager[/link] hinzu."
+
+msgid "These tables could not be created on installation: %1$s"
+msgstr ""
+"Diese Tabellen konnten bei der Installation nicht erstellt werden: %1$s"
+
+msgid "Third party"
+msgstr "Dritte Patei"
+
+msgid "This allows you to modify the HTML of text blocks in the visual editor."
+msgstr ""
+"Dies erlaubt das Bearbeiten des HTML-Codes der Textblöcke im visuellen "
+"Editor."
+
+msgid ""
+"This changes the label for the unsubscribe link in the footer of your "
+"newsletters."
+msgstr ""
+"Dies ändert das Label des Links zum Austragen , der sich im Fußbereich Ihrer "
+"Newsletter befindet."
+
+msgid "This email engine works on 95&#37; of servers"
+msgstr "Diese E-Mail-Engine funktioniert auf 95&#37; aller Server"
+
+msgid ""
+"This feature cannot work because the \"Comments\" feature of the plugin "
+"JetPack is enabled."
+msgstr ""
+"Diese Funktion steht nicht zur Verfügung wenn die \"Kommentar\" "
+"Funktionalität des JetPack Plugins aktiviert ist."
+
+msgid ""
+"This feature requires inline frames. You have iframes disabled or your "
+"browser does not support them."
+msgstr ""
+"Diese Funktion erfordert Inline-Frames. Sie haben iframes deaktiviert, oder "
+"Ihr Browser unterstützt diese nicht."
+
+msgid "This file is empty. Please try another."
+msgstr "Diese Datei ist leer. Bitte versuchen Sie es mit einer anderen."
+
+msgid "This file is not an image. Please try another."
+msgstr "Diese Datei ist kein Bild. Bitte versuchen Sie es mit einem anderen."
+
+msgid "This file type is not allowed. Please try another."
+msgstr ""
+"Dieses Dateiformat ist nicht erlaubt. Bitte versuchen Sie es mit einem "
+"anderen."
+
+msgid "This form adds subscribers to these lists:"
+msgstr "Dieses Formular fügt die Abonnenten zu diesen Listen hinzu:"
+
+msgid "This form does not exist"
+msgstr "Dieses Formular existiert nicht"
+
+msgid "This form does not exist."
+msgstr "Dieses Formular gibt es nicht."
+
+msgid "This form has already been deleted."
+msgstr "Dieses Formular wurde bereits gelöscht."
+
+msgid "This image might be in an article. Delete anyway?"
+msgstr "Dieses Bild wird von einem Beitrag verwendet. Trotzdem löschen?"
+
+msgid "This is fast!"
+msgstr "Das ist schnell!"
+
+msgid "This is larger than the maximum size. Please try another."
+msgstr ""
+"Dies überschreitet die maximal erlaubte Größe. Bitte versuchen Sie es mit "
+"einer anderen."
+
+msgid ""
+"This is the [link]confirmation page[/link] a user is directed to after "
+"clicking on the unsubscribe link at the bottom of a newsletter."
+msgstr ""
+"Hier ist die [link]Bestätigungsseite[/link] auf die ein Abonnent geleitet "
+"wird, wenn er den \"Abmelden\"-Link im Newsletter angeklickt hat."
+
+msgid "This is the most important engagement metric. You'll get hooked."
+msgstr ""
+"Dies ist das wichtigste Werkzeug zur Kundenbindung. Sie werden süchtig "
+"danach werden."
+
+msgid ""
+"This is the subject of the email. Be creative since it's the first thing "
+"your subscribers will see."
+msgstr ""
+"Das ist der Betreff der E-Mail. Seien Sie kreativ, da es das erste ist, was "
+"der Abonnent sieht. "
+
+msgid "This method works on 5&#37; of servers"
+msgstr "Diese Methode funktioniert auf  5&#37; aller Server"
+
+msgid ""
+"This needs to be in CSV style or a simple paste from Gmail, Hotmail or "
+"Yahoo. See [link]examples in our support site[/link]."
+msgstr ""
+"Das muss im CSV-Stil sein oder ein einfacher Auszug aus Gmail, Hotmail oder "
+"Yahoo. Siehe [link]Beispiele auf unserer Support-Seite[/link]."
+
+msgid ""
+"This needs to be in CSV style. See [link]examples in our support site[/link]."
+msgstr ""
+"Das muss im CSV-Stil sein. Siehe [link]Beispiele auf unserer Support-Seite[/"
+"link]."
+
+msgid ""
+"This tab will be filled with images from your current and previous "
+"newsletters."
+msgstr ""
+"Dieses Register wird mit  Bildern aus dem aktuellen und aus früheren "
+"Newslettern gefüllt."
+
+msgid ""
+"This text is displayed when email clients block images, which is most of the "
+"time."
+msgstr ""
+"Dies ist der Text, der angezeigt wird, wenn Empfänger Abbildungen blockiert "
+"haben, was meistens der Fall ist "
+
+msgid "Thursday"
+msgstr "Donnerstag"
+
+msgid "Time remaining: %1$s"
+msgstr "Verbleibende Zeit: %1$s"
+
+msgid "Tip"
+msgstr "Tipp"
+
+msgid "Tired of waiting more than 48h to send your emails?"
+msgstr ""
+"Haben Sie genug davon, länger als 48 Stunden auf das Versenden Ihrer E-Mails "
+"zu warten?"
+
+msgid "Title alignment"
+msgstr "Titel Ausrichtung"
+
+msgid "Title format"
+msgstr "Titel format"
+
+msgid "Title position"
+msgstr "Titelposition"
+
+msgid "Title style"
+msgstr "Titel-Form"
+
+msgid "Title:"
+msgstr "Titel:"
+
+msgid "Titles & text"
+msgstr "Überschriften & Text"
+
+msgid "To"
+msgstr "An"
+
+msgid "To do: create a bounce address."
+msgstr "Noch zu erledigen: Adresse für die Rückläuferbehandlung einrichten"
+
+msgid "To edit, simply click on this block of text."
+msgstr "Zum editieren klicken Sie einfach auf den Textblock."
+
+msgid "To resume send [link]Go premium now![/link]"
+msgstr ""
+"Um das Senden wieder aufzunehmen: [link]Jetzt die Premium-Version verwenden!"
+"[/link]"
+
+msgid ""
+"To subscribe to our dandy newsletter simply add your email below. A "
+"confirmation email will be sent to you!"
+msgstr ""
+"Um unseren Newsletter zu abonnieren, tragen Sie bitte einfach Ihre E-Mail-"
+"Adresse unten ein. Sie werden eine Bestätigungsmail erhalten!"
+
+msgid ""
+"To which address should all the bounced emails go? Get the [link]Premium "
+"version[/link] to automatically handle these."
+msgstr ""
+"An welche Adresse sollen die zurückgewiesenen E-Mails geschickt werden? "
+"Kaufen Sie die [link]Premiumversion[/link] um diese automatisch von uns "
+"verarbeiten zu lassen."
+
+msgid "Today you have sent %1$s emails"
+msgstr "Heute haben Sie %1$s E-Mails versendet"
+
+msgid "Today's statistics"
+msgstr "Tagesstatistik"
+
+msgid "Top domains"
+msgstr "Top domains"
+
+msgid "Top links"
+msgstr "Top links"
+
+msgid "Top subscribers"
+msgstr "Top Abeonnenten"
+
+msgid "Total number of posts or pages"
+msgstr "Anzahl neuer Beiträge oder Seiten"
+
+msgid "Total of %1$s clicks:"
+msgstr "Insgesamt %1$s Klicks:"
+
+msgid "Total of batch"
+msgstr "Stapel komplett"
+
+msgid "Total of subscribers"
+msgstr "Abonnenten insgesamt"
+
+msgid "Track with Google Analytics."
+msgstr "Tracken Sie mit Google Analytics."
+
+msgid "Try it now. Not happy? Get your money back."
+msgstr ""
+"Probieren Sie es jetzt aus. Nicht zufrieden? Sie bekommen Ihr Geld zurück."
+
+msgid "Tuesday"
+msgstr "Dienstag"
+
+msgid "Twice daily"
+msgstr "Zweimal täglich"
+
+msgid "Type name of your new list"
+msgstr "Geben Sie den Namen der neuen Liste an"
+
+msgid "Unconfirmed"
+msgstr "Unbestätigt"
+
+msgid ""
+"Unconfirmed subscribers will receive your newslettters from now on without "
+"the need to activate their subscriptions."
+msgstr ""
+"Unbestätigte Abonnenten erhalten ab sofort den Newsletter, ohne das "
+"Abonnement aktivieren zu müssen."
+
+msgid "Undo unsubscribe"
+msgstr "Austragen rückgängig machen"
+
+msgid "Unlisted"
+msgstr "Nicht gelistet"
+
+msgid "Unopened"
+msgstr "Ungeöffnet"
+
+msgid "Unsubscribe"
+msgstr "Austragen"
+
+msgid "Unsubscribe from all lists"
+msgstr "Aus allen Listen austragen"
+
+msgid "Unsubscribe from list: %1$s"
+msgstr "Aus Liste %1$s austragen."
+
+msgid "Unsubscribe link"
+msgstr "Abmelde-Link"
+
+msgid "Unsubscribe page content"
+msgstr "Seiteninhalt für Abmeldung"
+
+msgid "Unsubscribe page title"
+msgstr "Seitentitel für Abmeldung"
+
+msgid "Unsubscribe the user"
+msgstr "Den Benutzer austragen"
+
+msgid "Unsubscribe the user and add him to the list \"%1$s\" "
+msgstr "Den Benutzer austragen und zu der Liste \"%1$s\" hinzufügen."
+
+msgid "Unsubscribed"
+msgstr "Abgemeldet"
+
+msgid "Unsubscribed on %1$s"
+msgstr "Ausgetragen aus %1$s"
+
+msgid "Update"
+msgstr "Aktualisieren"
+
+msgid "Update list"
+msgstr "Update liste"
+
+msgid "Update procedure to Wysija version \"%1$s\" failed!"
+msgstr "Das Update auf Wysija in der Version \"%1$s\" ist fehlgeschlagen."
+
+msgid ""
+"Update your Wysija plugin to the latest beta version. Enjoy the upcoming "
+"features. [link]Get in touch[/link] with us for bugs and feedback. Only for "
+"experienced users!"
+msgstr ""
+"Aktualisieren Sie Ihr Wysija Plugin auf die neueste Beta-Version. Genießen "
+"Sie die kommenden Features. [Link]Kontaktieren Sie uns[/ link]für Bugs und "
+"Feedback. Nur für erfahrene Benutzer!"
+
+msgid "Upgrade DKIM key"
+msgstr "Den DKIM-Schlüssel upgraden"
+
+msgid "Upgrade in a few clicks."
+msgstr "Upgraden Sie mit wenigen Klicks."
+
+msgid "Upgrade now"
+msgstr "Jetzt upgraden"
+
+msgid "Upload"
+msgstr "Hochladen"
+
+msgid "Upload Theme (.zip)"
+msgstr "Theme hochladen (.zip)"
+
+msgid "Upload a file"
+msgstr "Datei hochladen"
+
+msgid "Upload error, file %1$s is too large! (MAX:%2$s)"
+msgstr "Ladefehler, Datei %1$s ist zu groß! (MAX:%2$s)"
+
+msgid "Upload failed."
+msgstr "Upload fehlgeschlagen."
+
+msgid "Upload stopped."
+msgstr "Hochladen gestoppt."
+
+msgctxt "Uploader: Drop files here - or - Select Files"
+msgid "or"
+msgstr "oder"
+
+msgid "Use this URL in your cron job: [cron_url]"
+msgstr "Verwenden Sie diese URL in ihrem Cron Job: [cron_url]"
+
+msgid "User choice: %s"
+msgstr "Benutzerwahl: %s"
+
+msgid "User has been inserted."
+msgstr "Der Benutzer wurde eingetragen."
+
+msgid "User has been updated."
+msgstr "Der Benutzer wurde aktualisiert."
+
+msgid "User has not been inserted."
+msgstr "Der Benutzer wurde nicht eingetragen."
+
+msgid "User has not been updated."
+msgstr "Der Benutzer wurde nicht aktualisiert."
+
+msgid ""
+"Users can still change their reply-to address for their newsletter. Network "
+"admins can still edit sending method for each site."
+msgstr ""
+"Benutzer können nach wie vor ihre Antwortadresse für ihren Newsletter "
+"ändern. Netzwerk-Administratoren können weiterhin die Sendemethode für jeden "
+"Standort bearbeiten."
+
+msgid "Value"
+msgstr "Wert"
+
+msgid "Version"
+msgstr "Version"
+
+msgid "View"
+msgstr "Ansehen"
+
+msgid "View all"
+msgstr "Alles zeigen"
+
+msgid "View all lists"
+msgstr "Zeige alle Listen"
+
+msgid "View all themes by %1$s"
+msgstr "Alle Themes von %1$s anzeigen"
+
+msgid "View author's website"
+msgstr "Website des Autors besuchen"
+
+msgid "View by lists"
+msgstr "Zeige Listen"
+
+msgid "View in browser link"
+msgstr "\"Im Browser anschauen\"-Link"
+
+msgid "View newsletter"
+msgstr "Newsletter ansehen"
+
+msgid "View stats or edit"
+msgstr "Statistik anschauen oder bearbeiten"
+
+msgid "View subscribers"
+msgstr "Abonnenten anzeigen"
+
+msgid ""
+"Visitors who submit a comment on a post can click on a checkbox to subscribe."
+msgstr ""
+"Besucher, die einen Kommentar bei einem Artikel hinterlassen, können durch "
+"Klick einer Checkbox den Newsletter abonnieren."
+
+msgid "Visual"
+msgstr "Sichtbar"
+
+msgid ""
+"Want to start all over again? This will wipe out Wysija and reinstall anew."
+msgstr ""
+"Noch einmal komplett von vorne anfangen? Dies wird Wysija löschen und erneut "
+"installieren."
+
+msgid ""
+"Watch out! If you reinstall this theme all the files which are in the "
+"folder:/wp-content/uploads/wysija/themes/%1$s will be overwritten. Are you "
+"sure you want to reinstall?"
+msgstr ""
+"Achtung! Wenn Sie dieses Theme neu installieren, werden alle Dateien im "
+"Ordner /wp-content/uploads/wysija/themes/%1$s überschrieben. Sind Sie "
+"sicher, dass sie erneut installieren möchten?"
+
+msgid "We activate a cron job for you."
+msgstr "Wir richten einen Cronjob für Sie ein."
+
+msgid "We cannot safely say that you clicked that linked."
+msgstr ""
+"Wir können nicht mit Sicherheit sagen, dass Sie diesen Link angeklickt haben."
+
+msgid "We check every 15 min. that your newsletter is being sent."
+msgstr ""
+"Wir überprüfen alle 15 Minuten, ob Ihr Newsletter tatsächlich versendet wird."
+
+msgid ""
+"We could not install your theme. It appears it's not in the valid format."
+msgstr ""
+"Wir konnten Ihr Theme nicht installieren. Es scheint, als wäre es nicht im "
+"gültigen Format."
+
+msgid ""
+"We got documentation and a ticket system on [link]support.wysija.com[/link]. "
+"We answer within 24h."
+msgstr ""
+"Wir haben eine Dokumentation und ein Ticket-Hilfe-System auf [link]support."
+"wysija.com[/link]. Wir antworten innerhalb 24 Stunden."
+
+msgid ""
+"We kept all non delivered emails in the queue, so you will be able to resume "
+"the send process later."
+msgstr ""
+"Wir halten alle nicht ausgelieferten E-Mails in der Warteschlange, dadurch "
+"können Sie den Sendevorgang später fortsetzen."
+
+msgid ""
+"We know too little about our users. We're looking for [link]anonymous data[/"
+"link] to build a better plugin. [ajaxlink]Yes, count me in![/ajaxlink]"
+msgstr ""
+"Leider wissen wir zu wenig über unsere Nutzer. Wir suchen nach "
+"[link]anonymen Daten[/link], um ein besseres Plugin zu erstellen. "
+"[ajaxlink]Alles klar, los geht's![/ajaxlink]"
+
+msgid "We love stars..."
+msgstr "Wir lieben Sterne …"
+
+msgid ""
+"We make sure you're sending every 15 minutes to avoid irregular delivery."
+msgstr ""
+"Wir stellen sicher, dass Sie alle 15 Minuten senden, um Fehler bei der "
+"Lieferung zu vermeiden."
+
+msgid "We received %1$s messages from the user %2$s"
+msgstr "Wir haben %1$s Nachrichten vom Benutzer %2$s erhalten."
+
+msgid ""
+"We suggest you setup a cron job. [link]Read more[/link] on support.wysija.com"
+msgstr ""
+"Wir schlagen Ihnen vor, einen Cron Job einzurichten.  [link]Erfahren Sie "
+"mehr[/link] auf support.wysija.com"
+
+msgid ""
+"We trigger your sending mecanism every 15 minutes to avoid unregular "
+"delivery. Avoid setting up a \"cron job\"."
+msgstr ""
+"Wir lösen Ihren Sendemechanismus alle 15 Minuten aus, um eine unregelmäßige "
+"Auslieferung zu vermeiden und ersparen es Ihnen, selbst einen \"Cron Job\" "
+"einrichten zu müssen."
+
+msgid ""
+"We were unable to contact the API, the site may be down. Please try again "
+"later."
+msgstr ""
+"Es ist uns nicht gelungen, die API aufzurufen; die Seite könnte nicht "
+"erreichbar sein. Bitte versuchen Sie es später erneut."
+
+msgid ""
+"We work with top notch designers. The latest and prettiest are exclusive. "
+"[link]View them on our site.[/link]"
+msgstr ""
+"Wir arbeiten mit erstklassigen Designern. Die neuesten und schönsten Themes "
+"sind exklusiv. [link]Schauen Sie sie auf unserer Seite an.[/link]"
+
+msgid ""
+"We're looking for [link]anonymous data[/link] to build a better plugin. "
+"[ajaxlink]<strong>Yes, count me in!</strong>[/ajaxlink]"
+msgstr ""
+"Wir suchen nach [link]anonymen Daten[/link], um ein besseres Plugin zu "
+"erstellen. [ajaxlink]<strong>Alles klar, los geht's!!</strong>[/ajaxlink]"
+
+msgid "Wednesday"
+msgstr "Mittwoch"
+
+msgid "Welcome Page!"
+msgstr "Willkommenseite"
+
+msgid "Welcome to Wysija %1$s"
+msgstr "Willkommen zu Wysija %1$s"
+
+msgid ""
+"Well too bad! Remove the Styles and Themes tab in the visual editor for your "
+"site's other users. See the Advanced Settings."
+msgstr ""
+"Nun, zu blöd! Entfernen Sie den Stil und Themen Reiter im visuellen Editor "
+"für die anderen Benutzer Ihrer Seite. Die Einstellungen finden Sie in den "
+"Fortgeschrittenen Einstellungen."
+
+msgid "What You Can Do"
+msgstr "Was Sie tun können"
+
+msgid "What got clicked?"
+msgstr "Was wurde angeklickt?"
+
+msgid "What other emailing solutions do you use?"
+msgstr "Welche anderen E-Mail-Lösungen benutzen Sie?"
+
+msgid "What type of newsletter is this?"
+msgstr "Welche Art von Newsletter ist dies?"
+
+msgid "What's new?"
+msgstr "Was gibt's neues?"
+
+msgid "What's the most annoying thing with our current version?"
+msgstr "Was ist das nervigste mit unseren aktuellen Version?"
+
+msgid "When failed permanently"
+msgstr "Wenn ein kontinuierlicher Fehler auftritt"
+
+msgid "When mailbox is full"
+msgstr "Wenn der Posteingang voll ist"
+
+msgid "When mailbox is not available"
+msgstr "Wenn der Posteingang nicht verfügbar ist"
+
+msgid "When message is delayed"
+msgstr "Falls die Nachricht verzögert ist "
+
+msgid ""
+"When setting up the bounce system, you need to have a different address for "
+"the bounce email and the forward to address"
+msgstr ""
+"Wenn Sie das Rückläufersystem einrichten, müssen Sie unterschiedliche "
+"Adressen für die Rückläufer-E-Mail und die Weiterleitungs-E-Mail haben"
+
+msgid "When someone subscribes"
+msgstr "Wenn sich jemand einträgt"
+
+msgid "When someone unsubscribes"
+msgstr "Wenn sich jemand austrägt"
+
+msgid ""
+"When subscribers click on the activation link, they are redirected to this "
+"[link]confirmation page[/link]."
+msgstr ""
+"Wenn Abonnenten den Aktivierungslink anklicken, werden sie zu dieser "
+"[link]Bestätigungsseite[/link] weitergeleitet."
+
+msgid "When the bounce is weird and we're not sure what to do, forward to:"
+msgstr ""
+"Wenn die Zurückweisung unklar ist, und wir nicht wissen, was zu tun ist, "
+"weiterleiten an:"
+
+msgid ""
+"When the subscribers hit \"reply\" this is who will receive their email."
+msgstr ""
+"Wenn ein Abonnent auf \"Antworten\" klickt, ist dies der E-Mail-Empfänger."
+
+msgid "When you are flagged as a spammer forward the bounced message to"
+msgstr ""
+"Wenn Du als Spammer markiert bist, soll die Ablehnungsnachricht "
+"weitergeleitet werden an:"
+
+msgid "When you installed our plugin, it was to..."
+msgstr "Wenn Sie unsere Plugin installiert haben, war es um..."
+
+msgid "When you need to confirm you're a human being, forward to:"
+msgstr ""
+"Wenn eine manuelle Bestätigung (being a human being) erforderlich ist, "
+"weiterleiten an:"
+
+msgid "When..."
+msgstr "Wenn..."
+
+msgid "Where do you send your newsletters?"
+msgstr "An wen haben Sie Ihre Newsletter versendet?"
+
+msgid "Which excerpt does it use? [link]Read more[/link]"
+msgstr "Welchen Auszug benutzt es? [link]Erfahren Sie mehr[/link]"
+
+msgid ""
+"Which links in your newsletter are getting clicked on? Find out for each "
+"newsletter."
+msgstr ""
+"Welche Links in Ihrem Newsletter werden angeklickt? Finden Sie es heraus, "
+"für jeden Newsletter."
+
+msgid "Who can change Wysija's settings?"
+msgstr "Wer kann die Einstellungen von Wysija bearbeiten?"
+
+msgid "Who can create newsletters?"
+msgstr "Wer kann einen Newsletter anlegen?"
+
+msgid "Who can manage subscribers?"
+msgstr "Wer kann Abonnenten verwalten?"
+
+msgid "Who can see the styles tab in the visual editor?"
+msgstr "Wer kann den Style-Reiter im visuellen Editor sehen?"
+
+msgid "Who can see the themes tab in the visual editor?"
+msgstr "Wer kann den Theme-Reiter im visuellen Editor sehen?"
+
+msgid "Widget Settings"
+msgstr "Widget Einstellungen"
+
+msgid "With this segment"
+msgstr "Mit diesem Teil"
+
+msgid "WordPress Posts' Images"
+msgstr "Bilder aus WordPress-Beiträgen"
+
+msgid "WordPress Users"
+msgstr "WordPress Benutzer"
+
+msgid "WordPress post"
+msgstr "WordPress-Eintrag"
+
+msgid "WordPress.org plugin repository"
+msgstr "WordPress.org Plugin Angebot"
+
+msgid "Wordpress user display name"
+msgstr "WordPress Benutzer-Anzeigename"
+
+msgid "Wysi... what?"
+msgstr "Wysi... was bitte?"
+
+msgid "Wysija"
+msgstr "Wysija"
+
+msgid "Wysija Newsletters"
+msgstr "Wysija Newsletter"
+
+msgid "Wysija Subscription"
+msgstr "Wysija-Abonnement"
+
+msgid "Wysija Version: "
+msgstr "Wysija-Version: "
+
+msgid ""
+"Wysija cannot be reinstalled because your folder <em>wp-content/uploads/"
+"wysija</em> needs to be writable. Change your permissions and reinstall."
+msgstr ""
+"Wysija kann nicht neu installiert werden, weil Ihr Ordner <em> wp-content/"
+"uploads/wysija </ em> nicht beschreibbar ist. Ändern Sie die Berechtigungen "
+"um neu zu installieren."
+
+msgid ""
+"Wysija has been reinstalled successfully using the same version. Settings "
+"and data have been deleted."
+msgstr ""
+"Wysija wurde erfolgreich mit der selben Version neuinstalliert. "
+"Einstellungen und Daten wurden gelöscht."
+
+msgid "Wysija has been uninstalled. Your site is now cleared of Wysija."
+msgstr "Wysija wurde deinstalliert. Ihre Seite ist nun frei von Wysija."
+
+msgid ""
+"Wysija highly recommends you send with a professional Email Provider. This "
+"will increase your deliverability. [link]Read more.[/link]"
+msgstr ""
+"Wysija empfiehlt Ihnen besonders, mit einem professionellen E-Mail-Anbieter "
+"zu versenden. Dies wird die Zustellbarkeit verbessern. [link]Mehr erfahren.[/"
+"link]"
+
+msgid ""
+"Wysija is getting better every day thanks to users like you. <br />Read "
+"[link]what they are saying[/link]."
+msgstr ""
+"Wysija wird durch Benutzer wie Sie jeden Tag besser. <br />Lesen[link] Sie "
+"was sie sagen.[/link]."
+
+msgid "Wysija page"
+msgstr "Wysija-Seite"
+
+msgid "Wysija's scheduled tasks"
+msgstr "Wysijas geplante Aufgaben"
+
+msgid "Year"
+msgstr "Jahr"
+
+msgid "Yes"
+msgstr "Ja"
+
+msgid "Yes please!"
+msgstr "Ja, gerne!"
+
+msgid "Yes, add me to your mailing list."
+msgstr "Ja, fügen Sie mich zu Ihrer Liste hinzu!"
+
+msgid "Yikes! Couldn't find any subscribers."
+msgstr "Huch! Es konnten keine Abonnenten gefunden werden."
+
+msgid ""
+"Yikes! We couldn't export. Make sure that your folder permissions for /wp-"
+"content/uploads/wysija/temp is set to 755."
+msgstr ""
+"Oops! Export fehlgeschlagen. Stellen Sie sicher dass die Berechtigungen für "
+"den Ordner /wp-content/uploads/wysija/temp auf 755 gesetzt sind."
+
+msgid ""
+"Yikes! You're near the limit of %1$s subscribers for Wysija's free version. "
+"Upgrade to [link]Premium[/link] to send without limits, and more."
+msgstr ""
+"Huch! Sie haben das Limit von  %1$s Abonnenten für die kostenlose Version "
+"von Wysija nahezu erreicht. Erwerben Sie die [link]Premium-Version[/link], "
+"um ohne Beschränkung zu versenden und mehr Features zu erhalten."
+
+msgid ""
+"Yikes! Your browser might not be supported. Get the latest "
+"[linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], [linkie]Internet "
+"Explorer[/linkie] or [linksafari]Safari[/linksafari]. It seems to work?"
+"[link_ignore]Dismiss[/link_ignore]."
+msgstr ""
+"Huch! Ihr Browser scheint nicht unterstützt zu werden. Hollen Sie sich den "
+"aktuellsten [linkchrome]Chrome[/linkchrome], [linkff]Firefox[/linkff], "
+"[linkie]Internet Explorer[/linkie] oder [linksafari]Safari[/linksafari]. "
+"Funktioniert das?[link_ignore]Verwerfen[/link_ignore]."
+
+msgid ""
+"Yikes. You're over the limit of 2000 subscribers for the free version of "
+"Wysija (%1$s in total). Sending is disabled now. Please upgrade your version "
+"to [link]premium[/link] to send without limits."
+msgstr ""
+"Huch. Sie haben das Limit von 2000 Empfängern für die kostenlose Version von "
+"Wysija überschritten (insgesamt %1$s). Ein weiteres Senden ist jetzt nicht "
+"mehr möglich. Bitte erwerben Sie jetzt die [link]Premium-Version[/link], um "
+"ohne Beschränkung zu versenden."
+
+msgid ""
+"You appear to still be using a beta version on your site. Do you want to "
+"switch back to the stable version %1$s?"
+msgstr ""
+"Sie scheinen immer noch eine Beta-Version auf Ihrer Website zu benutzen. "
+"Wollen Sie zurück zu der stabilen Version wechseln %1$s?"
+
+msgid ""
+"You are about to delete the theme : %1$s. Do you really want to do that?"
+msgstr ""
+"Sie sind im Begriff, das Theme \"%1$s\" zu löschen. Möchten Sie das wirklich?"
+
+msgid "You are about to send this newsletter. Please confirm."
+msgstr "Der Newsletter wird versendet. Bitte bestätigen."
+
+msgid "You are already subscribed to : %1$s"
+msgstr "Sie haben %1$s bereits abonniert."
+
+msgid "You are already subscribed."
+msgstr "Sie sind bereits als Abonnent eingetragen."
+
+msgid "You are already unsubscribed."
+msgstr "Sie sind bereits ausgetragen."
+
+msgid "You can add this domain to your [link]account manager[/link]."
+msgstr ""
+"Sie können diese Domain in Ihrem [link]account manager[/link] hinzufügen."
+
+msgid "You can also leave it empty"
+msgstr "Sie können es auch leer lassen"
+
+msgid ""
+"You can change the default reply-to name and email for your newsletters. "
+"This option is also used for the activation emails and Admin notifications "
+"(in Basics)."
+msgstr ""
+"Sie können den Standardeintrag für Antwort-an Name und E-Mail des "
+"Newsletters ändern. Diese Option kann man auch für die Aktivierungsmail und "
+"die Admin-Benachrichtigung benutzen (als Standard). "
+
+msgid ""
+"You can easily add this form to your theme's [link]Widgets areas[/link]."
+msgstr ""
+"Sie können auf einfache Art und Weise dieses Formular zum [link]Widget-"
+"Bereich[/link] Ihres Themes hinzufügen."
+
+msgid "You can even %1$ssocial bookmarks%2$s like these:"
+msgstr "Sie können sogar %1$ssocial bookmarks%2$s so wie hier:"
+
+msgid ""
+"You can only add one widget when designing a post notification sent "
+"immediately after an article is published"
+msgstr ""
+"Sie können nur dann ein Widget hinzufügen, wenn Sie eine Benachrichtigung "
+"erstellen, die direkt nach der Veröffentlichung eines Artikels verschickt "
+"wird."
+
+msgid "You can start by watching this video by one of our users."
+msgstr ""
+"Sie können mit diesem Video beginnen, das einer unserer Nutzer gemacht hat."
+
+msgid "You cannot use the DKIM signature option..."
+msgstr "Sie können nicht die DKIM Signatur-Option benutzen..."
+
+msgid ""
+"You don't need to reinstall. We'll simply activate your site and you'll "
+"download a small plugin."
+msgstr ""
+"Sie brauchen nicht neu zu installieren. Wir werden Ihre Website einfach "
+"aktivieren und Sie müssen ein kleines Plugin installieren."
+
+msgid "You have attempted to queue too many files."
+msgstr "Sie haben versucht, zu viele Dateien in die Warteschlange aufzunehmen."
+
+msgid "You have no more limits. Send to 100 000 if you want."
+msgstr ""
+"Sie haben keine Höchstgrenze mehr. Senden Sie bis zu 100.000, wenn Sie "
+"wollen."
+
+msgid "You have to select at least 1 list"
+msgstr "Sie müssen mindestens eine Liste auswählen"
+
+msgid "You made a mistake? [link]Undo unsubscribe[/link]."
+msgstr ""
+"Ist Ihnen ein Fehler unterlaufen? [link]Die Abbestellung des Abonnements "
+"rückgängig machen[/link]."
+
+msgid "You may need to turn ON the option <i>Self-signed certificates</i>"
+msgstr ""
+"Eventuell müssen Sie die Option <i>Selbstausgestellte Zertifikate</i> "
+"anschalten"
+
+msgid "You may only upload 1 file."
+msgstr "Sie dürfen nur 1 Datei hochladen."
+
+msgid "You need to activate the Wysija Premium plugin."
+msgstr "Sie müssen das Wysija Premium-Plugin aktvieren."
+
+msgid "You need to select at least one list."
+msgstr "Sie müssen mindestens eine Liste auswählen."
+
+msgid ""
+"You specified an SMTP password but you don't require an authentification, "
+"you might want to turn the SMTP authentification ON."
+msgstr ""
+"Sie haben ein SMTP-Passwort angegeben, aber Sie müssen sich nicht "
+"authentifizieren. Sie sollten die SMTP-Authentifizierung vielleicht "
+"einschalten. "
+
+msgid "You updated! It's like having the next gadget, but better."
+msgstr "Geupdated!"
+
+msgid "You'll need to update your DNS if you upgrade."
+msgstr "Sie werden Ihre DNS aktualisieren müssen, wenn Sie upgraden."
+
+msgid "You're all setup! You've successfully sent with Gmail."
+msgstr ""
+"Sie sind komplett eingerichtet und haben erfolgreich mit Gmail versendet."
+
+msgid ""
+"You're almost there. Click this [link]link[/link] to activate the licence "
+"you have just purchased."
+msgstr ""
+"Fast geschafft. Klicken Sie auf den [link]Link[/link], um die Lizenz, die "
+"Sie gerade gekauft haben, zu aktivieren."
+
+msgid "You're installing this plugin for..."
+msgstr "Sie installieren dieses plugin für..."
+
+msgid "You're using an older DKIM key which is unsupported by Gmail."
+msgstr ""
+"Sie verwenden einen älteren DKIM Schlüssel, der von Gmail nicht unterstützt "
+"wird."
+
+msgid "You've been subscribed!"
+msgstr "Sie haben das Abonnement erfolgreich bestellt!"
+
+msgid "You've subscribed to: %1$s"
+msgstr "Sie haben %1$s abonniert. "
+
+msgid "You've successfully subscribed."
+msgstr "Sie haben erfolgreich abonniert. "
+
+msgid "You've unsubscribed!"
+msgstr "Sie haben sich abgemeldet!"
+
+msgid "Your Premium features are now activated. Happy emailing!"
+msgstr "Ihre Premium-Features sind nun aktiviert. Viel Spaß beim Versenden!"
+
+msgid "Your Premium licence has expired."
+msgstr "Ihre Premium-Lizenz ist abgelaufen."
+
+msgid "Your SPF record"
+msgstr "Ihr SPF Eintrag"
+
+msgid ""
+"Your Wysija comes with an example newsletter. You'll see it when you close "
+"this welcome page. Edit it to start playing with it."
+msgstr ""
+"Ihr Wysija kommt mit einem Beispiel-Newsletter. Sie werden ihn sehen, wenn "
+"Sie diese Willkommens-Seite schließen. Mit ihm können sie probieren."
+
+msgid "Your auto newsletter has been activated."
+msgstr "Ihr automatischer Newsletter wurde aktiviert."
+
+msgid "Your brand-new list awaits its first subscriber."
+msgstr "Ihre brandneue Liste wartet auf den ersten Abonnenten."
+
+msgid ""
+"Your browser has some limitations uploading large files with the multi-file "
+"uploader. Please use the browser uploader for files over 100MB."
+msgstr ""
+"Ihr Browser hat Einschränkungen, bei der Benutzung des  Mehr-Dateien-"
+"Uploaders. Für Dateien mit mehr als 100MB benutzen Sie bitte den Browser zum "
+"Hochladen der Datei."
+
+msgid "Your company's address"
+msgstr "Ihre Firmenanschrift"
+
+msgid "Your daily newsletter stats"
+msgstr "Ihre aktuellen Newsletter-Statistiken"
+
+msgid "Your email could not be saved"
+msgstr "Ihre E-Mail konnte nicht gespeichert werden"
+
+msgid "Your email has been saved"
+msgstr "Ihre E-Mail wurde gespeichert"
+
+msgid "Your email preview has been sent to %1$s"
+msgstr "Ihre Test-E-Mail wurde gesendet an %1$s."
+
+msgid "Your form could not be saved"
+msgstr "Ihre Eingaben konnten nicht gespeichert werden."
+
+msgid "Your form has been saved"
+msgstr "Ihre Eingaben wurden gespeichert"
+
+msgid "Your latest newsletter is being sent."
+msgstr "Ihr aktueller Newsletter wurde gesendet."
+
+msgid ""
+"Your licence doesn't allow more domains. Upgrade from your [link]account "
+"manager[/link]."
+msgstr ""
+"Ihre Lizenz erlaubt keine zusätzlichen Domains. Upgraden Sie von Ihrem "
+"[link]account manager[/link]."
+
+msgid "Your licence to thrill."
+msgstr "Ihre Lizenz, die begeistert"
+
+msgid "Your lists"
+msgstr "Ihre Listen"
+
+msgid ""
+"Your localhost may not have a mail server. To verify, please log out and "
+"click on the \"Lost your password?\" link on the login page. Do you receive "
+"the reset password email from your WordPress?"
+msgstr ""
+"Ihr localhost hat keinen Mail-Server. Um das zu überprüfen, melden Sie sich "
+"bitte ab und klicken Sie auf den \"Passwort vergessen?\"-Link auf der Login-"
+"Seite. Erhalten Sie eine Reset-Passwort-E-Mail von Ihrem WordPress?"
+
+msgid "Your own website"
+msgstr "Ihre eigene Website"
+
+msgid "Your request can't retrieve any subscribers. Change your filters!"
+msgstr ""
+"Mit Ihrer Anfrage können keine Empfänger gefunden werden. Ändern Sie die "
+"Filter!"
+
+msgid ""
+"Your sending settings ([settings]) can't send that quickly to [number] "
+"subscribers. Expect delivery delays. [link]Read more[/link]"
+msgstr ""
+"Ihre Sendeeinstellungen ([settings]) können nicht derartig schnell [number] "
+"Abonnenten beliefern. Mit Auslieferungsverzögerungen ist zu rechnen. "
+"[link]Mehr erfahren[/link]"
+
+msgid "Your server apparently refuses to send more emails."
+msgstr "Der Server weigert sich offenbar, weitere Mails zu versenden."
+
+msgid "Your server cannot run Wysija."
+msgstr "Ihr Server kann Wysija nicht ausführen."
+
+msgid "Your server doesn't support remote exchanges."
+msgstr "Ihr Server erlaubt keinen Remote-Austausch."
+
+msgid ""
+"Your server is missing one or many important PHP functions to run "
+"properly :  %1$s"
+msgstr ""
+"Ihrem Server fehlt eine oder mehrere notwendige PHP Funktionen, damit Wysija "
+"ausgeführt werden kann:  %1$s"
+
+msgid ""
+"Your server's configuration doesn't allow us to complete Wysija's "
+"Installation!"
+msgstr ""
+"Ihre Serverkonfiguration erlaubt es nicht, die Wysija-Installation zu "
+"vervollständigen!"
+
+msgid "Your settings are saved."
+msgstr "Ihre Einstellungen wurden gespeichert"
+
+msgid "Your vote could not be recorded."
+msgstr "Ihre Stimme konnte nicht gezählt werden."
+
+msgid "Your vote has been recorded."
+msgstr "Ihre Stimme wurde gezählt."
+
+msgid ""
+"Your web host has limits. We suggest 70 emails per hour to be safe. "
+"[link]Find out more[/link]."
+msgstr ""
+"Ihr Hosting-Provider hat ein E-Mail-Limit. Wir schlagen 70 E-Mails pro "
+"Stunde vor, um auf der sicheren Seite zu sein. [link]Mehr Informationen[/"
+"link]."
+
+msgid "Yup, it works. You can start blasting away emails to the moon."
+msgstr "Prima, es geht! Sie können beginnen, E-Mails hinauszujagen."
+
+msgid "Yup, we've added you to our list. You'll hear from us shortly."
+msgstr ""
+"Wir haben Sie in unseren Verteiler aufgenommen. Sie werden bald von uns "
+"hören."
+
+msgid "[link]Find out[/link] how you can improve this."
+msgstr "[link]Finden Sie heraus[/link], wie Sie dies verbessern können."
+
+msgid "[link]Guide[/link] to create your own theme."
+msgstr "[link]Anleitung[/link], um ein eigenes Theme zu gestalten."
+
+msgid "[link]Read more on support.wysija.com[/link]."
+msgstr "[link]Erfahren Sie mehr unter support.wysija.com[/link]"
+
+msgid "[link]Read more.[/link]"
+msgstr "[link]Mehr lesen.[/link]"
+
+msgid "[link]Show more details.[/link]"
+msgstr "[link]Weitere Details...[/link]"
+
+msgid "[send_method] works with Wysija"
+msgstr "[send_method] funktioniert mit Wysija"
+
+msgid "a new WordPress user is added to your site..."
+msgstr "ein neuer WordPress-Benutzer Ihrer Seite hinzugefügt wird..."
+
+msgid "above content"
+msgstr "über den Inhalt"
+
+msgid "above text block and image"
+msgstr "oben Textblock und Bild"
+
+msgid "after %1$s try"
+msgid_plural "after %1$s tries"
+msgstr[0] "nach %1$s Versuch"
+msgstr[1] "nach  %1$s Versuchen"
+
+msgid "alternate left & right"
+msgstr "Links und rechts abwechseln"
+
+msgid "and the footer?"
+msgstr "und die Fußzeilen?"
+
+msgid "any role"
+msgstr "Jede Rolle"
+
+msgid "art"
+msgstr "Kunst"
+
+msgid "as "
+msgstr "als"
+
+msgid "below content"
+msgstr "unterhalb des Inhalts"
+
+msgid "bounced"
+msgstr "zurückgewiesen"
+
+msgid "business"
+msgstr "Business"
+
+msgid "center"
+msgstr "mittig"
+
+msgid "clicked"
+msgstr "angeklickt"
+
+msgid "day(s)"
+msgstr "Tag(e)"
+
+msgid "day(s) after."
+msgstr "Tag(e) danach."
+
+msgid "drop content here"
+msgstr "Inhalt hier loslassen"
+
+msgid "e-commerce"
+msgstr "e-commerce"
+
+msgid "e.g.:smtp.mydomain.com"
+msgstr "z.B.:smtp.mydomain.com"
+
+msgid "each"
+msgstr "jede/r/s"
+
+msgid "education"
+msgstr "Ausbildung"
+
+msgid "emails"
+msgstr "E-Mails"
+
+msgid "empty"
+msgstr "leer"
+
+msgid "every 10 minutes"
+msgstr "alle 10 Minuten"
+
+msgid "every 15 minutes"
+msgstr "alle 15 Minuten"
+
+msgid "every 2 hours"
+msgstr "alle 2 Stunden"
+
+msgid "every 2 minutes"
+msgstr "alle 2 Minuten"
+
+msgid "every 30 minutes"
+msgstr "alle 30 Minuten"
+
+msgid "every 5 minutes"
+msgstr "alle 5 Minuten"
+
+msgid "every hour"
+msgstr "jede Stunde"
+
+msgid "every minute"
+msgstr "jede Minute"
+
+msgid "excerpt"
+msgstr "Auszug"
+
+msgid "food"
+msgstr "Nahrung"
+
+msgid "full post"
+msgstr "Ganzer Beitrag"
+
+msgid "go back to Step 1"
+msgstr "zurück zu Schritt 1"
+
+msgid "go to page"
+msgstr "Gehe zu Seite"
+
+msgid "government"
+msgstr "Regierung"
+
+msgid "heading 1"
+msgstr "Überschrift 1"
+
+msgid "heading 2"
+msgstr "Überschrift 2"
+
+msgid "heading 3"
+msgstr "Überschrift 3"
+
+msgid "health and sports"
+msgstr "Gesundheit und Sport"
+
+msgid "hey, click on this text!"
+msgstr "Klicken Sie auf diesen Text!"
+
+msgid "hour(s)"
+msgstr "Stunde(n)"
+
+msgid "hour(s) after."
+msgstr "Stunde(n) danach."
+
+msgid "if there's new content"
+msgstr "wenn es neue Inhalte gibt"
+
+msgid "iframe version"
+msgstr "iFrame-Version"
+
+msgid "immediately"
+msgstr "sofort"
+
+msgid "immediately."
+msgstr "sofort."
+
+msgid "in any role,"
+msgstr "mit jeder Benutzerrolle,"
+
+msgid "in text block"
+msgstr "im text block"
+
+msgid "insurance"
+msgstr "Versicherung"
+
+msgid "large"
+msgstr "groß"
+
+msgid "left"
+msgstr "links"
+
+msgid "manufacturing"
+msgstr "Fabrikation"
+
+msgid "marketing and media"
+msgstr "Marketing und Medien"
+
+msgid "medium"
+msgstr "mittel"
+
+msgid "monthly every..."
+msgstr "monatlich jeden..."
+
+msgid "monthly on the..."
+msgstr "monatlich am..."
+
+msgid "moved to the trash."
+msgstr "in den Papierkorb gelegt."
+
+msgid "newest"
+msgstr "neueste"
+
+msgid "no"
+msgstr "nein"
+
+msgid "no image"
+msgstr "kein Bild"
+
+msgid "non profit"
+msgstr "gemeinnützig"
+
+msgid "of"
+msgstr "von"
+
+msgid "of %1$s"
+msgstr "von %1$s"
+
+msgid "oldest"
+msgstr "älteste"
+
+msgid "once a day at..."
+msgstr "täglich um..."
+
+msgid "opened"
+msgstr "geöffnet"
+
+msgid "or simply [link]go back to design[/link]."
+msgstr "oder einfach [link]zurück zum Design[/link]."
+
+msgid "other"
+msgstr "andere"
+
+msgid "photography"
+msgstr "Fotografie"
+
+msgid "play with this image"
+msgstr "Spielen Sie mit dem Bild"
+
+msgid "real estate"
+msgstr "Immobilien"
+
+msgid "religious"
+msgstr "Religion"
+
+msgid "right"
+msgstr "rechts"
+
+msgid "see links with a [link]Premium licence[/link]."
+msgstr "Links sehen mit einer [link]Premium-Lizenz[/link]."
+
+msgid "selected"
+msgstr "ausgewählt"
+
+msgctxt "settings tab title"
+msgid "Advanced"
+msgstr "Fortgeschritten"
+
+msgctxt "settings tab title"
+msgid "Basics"
+msgstr "Grundlagen"
+
+msgctxt "settings tab title"
+msgid "Forms"
+msgstr "Anmelde-Formulare"
+
+msgctxt "settings tab title"
+msgid "Premium Upgrade"
+msgstr "Premium Upgrade"
+
+msgctxt "settings tab title"
+msgid "Send With..."
+msgstr "Senden mit..."
+
+msgctxt "settings tab title"
+msgid "Signup Confirmation"
+msgstr "Abonnement-Bestätigung"
+
+msgid "show as list"
+msgstr "Als Liste anzeigen"
+
+msgid "show message"
+msgstr "Nachricht anzeigen"
+
+msgid "small"
+msgstr "klein"
+
+msgid "someone subscribes to the list..."
+msgstr "sich jemand in die folgende Liste einträgt..."
+
+msgid "subscribers will receive \"%1$s\" after import."
+msgstr "Abonnenten werden \"%1$s\" nach dem Import erhalten."
+
+msgid "technology"
+msgstr "Technik"
+
+msgid "there's new content, send..."
+msgstr "es neue Inhalte gibt, sende"
+
+msgid "title only"
+msgstr "Nur Titel"
+
+msgid "total max upload file size : %1$s"
+msgstr "Maximale Dateigröße zum Hochladen: %1$s"
+
+msgid "travel"
+msgstr "reisen"
+
+msgid "undelivered"
+msgstr "Nicht zugestellt"
+
+msgid "underline"
+msgstr "unterstreichen"
+
+msgid "unopened"
+msgstr "ungeöffnet"
+
+msgid "unsubscribed"
+msgstr "abgemeldet"
+
+msgid "week(s)"
+msgstr "Woche(n)"
+
+msgid "week(s) after."
+msgstr "Woche(n) danach."
+
+msgid "weekly on..."
+msgstr "wöchentlich am..."
+
+msgid "which you have pasted"
+msgstr "die Sie eingefügt haben"
+
+msgid "yes"
+msgstr "ja"
+
+msgid ""
+"you can send as fast as every 15 minutes since Wysija guarantees Premium "
+"users can send this fast."
+msgstr ""
+"Sie können auf die Schnelle alle 15 Minuten senden, seitdem Wysija seinen "
+"Premium-Users das Versenden mit dieser Geschwindigkeit garantiert."
